@@ -2,9 +2,8 @@ title: Marcos Demetry
 author: MarcosDemetry
 email: marcos.demetry@ifn.se
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research Assistant at the [Research Institute of Industrial Economics](https://www.ifn.se/eng).
+  Interested in all things to do with urban studies, complex systems, and data analysis.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -21,9 +20,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: marcosdemetry
+    github:  marcosdemetry
+    #linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
