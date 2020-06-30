@@ -17,7 +17,10 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-
+  navigation:
+    - title: Resume
+      url: "/https://www.dropbox.com/s/gmr8b4zbta3yvp9/Demetry_CV_2020.pdf?dl=0"
+      
   # generate social links in footer
   social_links:
     twitter: MarcosDemetry
