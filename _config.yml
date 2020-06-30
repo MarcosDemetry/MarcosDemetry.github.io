@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Marcos Demetry
-  tagline: Data Analyst. 
+  tagline: Research Assistant. Data Analyst. 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -20,9 +20,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: marcosdemetry
+    twitter: MarcosDemetry
     github:  marcosdemetry
-    linkedIn: in/marcosdemetry
+    linkedIn: in/MarcosDemetry
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
