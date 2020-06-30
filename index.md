@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 Research Assistant at the [Research Institute of Industrial Economics](https://www.ifn.se/eng).
