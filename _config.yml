@@ -19,8 +19,8 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   navigation:
     - title: Resume
-      url: "/https://www.dropbox.com/s/gmr8b4zbta3yvp9/Demetry_CV_2020.pdf?dl=0"
-      
+      url: "/assets/Demetry_CV_2020.pdf"
+
   # generate social links in footer
   social_links:
     twitter: MarcosDemetry
