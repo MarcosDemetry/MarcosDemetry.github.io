@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+Research Assistant at the [Research Institute of Industrial Economics](https://www.ifn.se/eng).
+Interested in urban studies, complex systems, and data analysis.
 
 # Publications
 1. Demetry, Hjertstrand and Polisson (2020) "[Testing Axioms of Revealed Preferences in Stata.](https://www.ifn.se/publikationer/working_papers/2020/1342)" _IFN Working Paper No. 1342_
