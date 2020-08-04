@@ -15,7 +15,7 @@ Interested in urban studies, complex systems, and data analysis.
 # Select Work as Research Assistant
 - Elert, Henrekson and Sanders (2019) "[The Entrepreneurial Society — A Reform Strategy for the European Union](https://www.ifn.se/publikationer/bocker_pa_engelska/2018/2019-the-entrepreneurial-society)" _International Studies in Entrepreneurship Vol. 98_ Berlin: Springer
 
-- Henrekson (2020), "[How Labor Market Institutions Affect Job Creation and Productivity Growth – An Update](https://wol.iza.org/articles/how-labor-market-institutions-affect-job-creation-and-productivity-growth/long)". IZA World of Labor 1(January), 1–10.
+- Henrekson (2020), "[How Labor Market Institutions Affect Job Creation and Productivity Growth – An Update](https://wol.iza.org/articles/how-labor-market-institutions-affect-job-creation-and-productivity-growth/long)". _IZA World of Labor 1(January), 1–10_.
 
 - Horn (2020), "[International Jurisdiction over Standard-Essential Patents](https://www.ifn.se/eng/publications/wp/2020/1314)". _IFN Working Paper No. 1314_. Stockholm: Research Institute of Industrial Economics (IFN).
 
