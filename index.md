@@ -12,6 +12,7 @@ Interested in urban studies, complex systems, and data analysis.
 
 - Demetry (2017) "[Segregation in Urban Areas.](http://ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)" _Ratio Working Papers Nr. 304_
 
+
 # Select Work as Research Assistant
 - Elert, Henrekson and Sanders (2019) "[The Entrepreneurial Society — A Reform Strategy for the European Union](https://www.ifn.se/publikationer/bocker_pa_engelska/2018/2019-the-entrepreneurial-society)" _International Studies in Entrepreneurship Vol. 98_ Berlin: Springer
 
@@ -26,3 +27,10 @@ Interested in urban studies, complex systems, and data analysis.
 - Svensson (2020), "[Gesell-pengar - ett kraftfullt penningpolitiskt instrument som stimulerar privat konsumtion](https://www.ifn.se/publikationer/popularvetenskap-och-recensioner_1/2020/2020-gesell-pengar-ett-kraftfullt-penningpolitiskt-instrument-som-stimulerar-privat-konsumtion)". _Idéer för ekonomisk återhämtning efter pandemin #2_. Stockholm: Entreprenörskapsforum.
 
 - Henrekson and Sanandaji (2020), "[Measuring Entrepreneurship: Do Established Metrics Capture Schumpeterian Entrepreneurship?](https://www.ifn.se/eng/publications/published-articles-in-english/2020/2020-43)". _Entrepreneurship Theory and Practice 44(4)_, 733–760
+
+
+# Misc hobby coding projects
+- [Creating Supply and Demand curves for the Nordic Electricit Market](https://github.com/MarcosDemetry/elspot_supply_demand)
+- [Exploring Bilateral Investment Treaties and Foreign Direct Investments in the EU](https://github.com/MarcosDemetry/BIT_FDI)
+- [Creating an index of names for book manuscripts in PDF](https://github.com/MarcosDemetry/auto_personregister)
+- [Swedish Firm Bankruptcy Filings for 2020](https://github.com/MarcosDemetry/scraping_konkurs)
