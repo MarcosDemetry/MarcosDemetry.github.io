@@ -34,3 +34,4 @@ Interested in urban studies, complex systems, and data analysis.
 - [Exploring Bilateral Investment Treaties and Foreign Direct Investments in the EU](https://github.com/MarcosDemetry/BIT_FDI)
 - [Creating an index of names for book manuscripts in PDF](https://github.com/MarcosDemetry/auto_personregister)
 - [Swedish Firm Bankruptcy Filings for 2020](https://github.com/MarcosDemetry/scraping_konkurs)
+- [Basic gridsearch for identifying structural breaks](https://github.com/MarcosDemetry/gridsearch)
