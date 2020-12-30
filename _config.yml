@@ -15,7 +15,7 @@ plainwhite:
   tagline: Research Assistant.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
+  search: False # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   html_lang: "en" 
   portfolio_image:  "assets/portfolio.png"
@@ -28,7 +28,7 @@ plainwhite:
     twitter: MarcosDemetry
     github:  marcosdemetry
     linkedIn: in/marcos-demetry-8a3aa734
-    rss: rss
+    # rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
     # instagram: jekyll
