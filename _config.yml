@@ -21,7 +21,7 @@ plainwhite:
   portfolio_image:  "assets/portfolio.png"
   navigation:
     - title: Resume
-      url: "/assets/Demetry_CV_2020.pdf"
+      url: "/assets/Demetry_CV_2021.pdf"
 
   # generate social links in footer
   social_links:
