@@ -53,6 +53,6 @@ plainwhite:
 # Build settings
 remote_theme: thelehhman/plainwhite-jekyll
 
-plugins:
+# plugins:
 #  - jekyll-seo-tag
 #  - jekyll-feed
