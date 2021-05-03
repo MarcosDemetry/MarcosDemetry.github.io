@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Research Assistant at the [Research Institute of Industrial Economics](https://www.ifn.se/eng).
+Research Assistant at the [Research Institute of Industrial Economics](https://www.ifn.se/eng) and the [Institute of Social Research, Stockholm University](https://sofi.su.se).
 Interested in urban studies, complex systems, and data analysis.
 
 # Working Papers
@@ -19,8 +19,6 @@ Interested in urban studies, complex systems, and data analysis.
 - Henrekson (2020), "[How Labor Market Institutions Affect Job Creation and Productivity Growth – An Update](https://wol.iza.org/articles/how-labor-market-institutions-affect-job-creation-and-productivity-growth/long)". _IZA World of Labor 1(January), 1–10_.
 
 - Horn (2020), "[International Jurisdiction over Standard-Essential Patents](https://www.ifn.se/eng/publications/wp/2020/1314)". _IFN Working Paper No. 1314_. Stockholm: Research Institute of Industrial Economics (IFN).
-
-- Lundin (2019) "[Effekter av privatiseringar på pris och arbetskostnad i den svenska eldistributionssektorn](https://www.ifn.se/publikationer/publicerade-artiklar-pa-svenska/2019/2019-22)" _Ekonomisk Debatt nr 7 årgång 47_
 
 - Norbäck and Persson (2019), "[Marknadskoncentration och korsägande av företag](http://www.konkurrensverket.se/globalassets/publikationer/uppdragsforskning/forsk_rap_2019-3.pdf)". _Konkurrensverkets uppdragsforskningsrapport 2019:3_. Stockholm: Konkurrensverket. 
 
