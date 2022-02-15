@@ -3,10 +3,11 @@ layout: page
 title: Resume
 ---
 
-__Current position__: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
+## <ins>Current position</ins>
+- 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
+- 2021–Currently: Affiliated doctoral student at the Research Institute of Industrial Economics, IFN (Stockholm, Sweden)
 
 ## <ins>Education</ins>
-- 2021–Current: Ph.D. in Economics, Linnaeus University
 - 2016–2018: M.Sc. in Economics, Uppsala University
 - 2013–2016: B.Sc. in Business & Economics, Uppsala University
 
@@ -34,7 +35,7 @@ Some fun stats: Here's the breakdown of the percentage of time spent on projects
 </p>
 
 <div>
-  <img class="marginauto" src="/assets/img/time_spent_coding.png" alt="time_spent_coding" />
+  <img class="marginauto" src="/assets/img/time_spent_coding.png" alt="Pie chart of time spent on different coding languages or software" />
 </div>
 </details>
 
@@ -55,7 +56,7 @@ Some fun stats: Here's the breakdown of the percentage of time spent on projects
 
 
 <details>
-  <summary>Summer 2017: Summer Research Assistant, <a href="https://ratio.se" target="_blank">Ratio Institute</a></summary>
+  <summary>2017: Summer Research Assistant, <a href="https://ratio.se" target="_blank">Ratio Institute</a></summary>
 
 <p>
 
@@ -65,7 +66,7 @@ There is a growing interest in understanding the causes and patterns of resident
 
 
 <details>
-  <summary>Fall 2016: Intern, <a href="https://ratio.se">Ratio Institute</a></summary>
+  <summary>2016: Intern, <a href="https://ratio.se">Ratio Institute</a></summary>
 
 <p>
 
