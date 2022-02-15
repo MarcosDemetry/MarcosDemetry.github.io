@@ -19,6 +19,10 @@ navbar-links:
   Teaching: "teaching"
   Resume: "resume"
 
+relative-links:
+  enabled: true
+  collections: false
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -233,6 +237,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-relative-links
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -24,4 +24,4 @@ Current position: __Phd Student__
 - Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", <i>IFN Working Paper No. 1342</i>
 - Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ratio Working Paper No. 304</i>
 
-Research details: {{ site.baseurl }}{% link research.md %}
+[See research details here](resume.md)
