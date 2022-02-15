@@ -71,3 +71,6 @@ Labor strikes and other labor union action play a vital role in labor market out
 - Demetry, Marcos (2017). <a href="https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf" target="_blank">"Segregation in Urban Areas: A literature review"</a>, <i>Ratio Working Paper No. 304</i>
 
 [See research details here](research.md)
+
+## Non-Academic Work Experience and Voluntary duties
+As important as it is to showcase experience from academia, it is equally important to highlight real-world experience. My previous non-academic work experience includes: waiting tables at cafés, telemarketer, busboy at a restaurant, Youth Leader at St Mary and St Paul Coptic Orthodox Church, as well as the occasional English/Math tutoring at public libraries or privately.
