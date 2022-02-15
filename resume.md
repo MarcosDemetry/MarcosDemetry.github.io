@@ -3,14 +3,14 @@ layout: page
 title: Resume
 ---
 
-__Current position__: __Phd Student__ at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
+__Current position__: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
 
-## Education
+## <ins>Education</ins>
 - 2021–Current: Ph.D. in Economics, Linnaeus University
 - 2016–2018: M.Sc. in Economics, Uppsala University
 - 2013–2016: B.Sc. in Business & Economics, Uppsala University
 
-## Academic Positions
+## <ins>Academic Positions</ins>
 <details>
   <summary>2021–2021: Research Assistant, <a href="https://www.sofi.su.se" target="_blank">Swedish Institute for Social Research, SOFI</a></summary>
 
@@ -28,6 +28,16 @@ Data cleaning and analysis in <b>R</b> for a select number of projects led by Ph
 
 Helping researchers with data gathering, webscraping in <b>Python</b>, building and cleaning dataset in <b>Stata</b>, creating tables and figures, proof-reading text and theoretical models, writing and translating text, formatting manuscripts for journal submissions and more. Tasks include handling vast Swedish register-data, as well as writing user-written commands in Stata.
 </p>
+  <details>
+    <summary>Fun stats</summary>
+
+    <p>
+      Of my total time spent on projects that involve coding, here's the breakdown for which programming languages (or software) was mostly used:
+    </p>
+    <img src="/assets/img/time_spent_coding.png" alt="time_spent_coding" width="100%"/>
+
+  </details>
+
 </details>
 
 
@@ -65,12 +75,11 @@ Labor strikes and other labor union action play a vital role in labor market out
 </p>
 </details>
 
-
-## Working Papers
+## <ins>Working Papers</ins>
 - Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). <a href="https://www.ifn.se/media/xf4bpowg/wp1342.pdf" target="_blank">"Testing Axioms of Revealed Preference in Stata"</a>, <i>IFN Working Paper No. 1342</i>
 - Demetry, Marcos (2017). <a href="https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf" target="_blank">"Segregation in Urban Areas: A literature review"</a>, <i>Ratio Working Paper No. 304</i>
 
 [See research details here](research.md)
 
-## Non-Academic Work Experience and Voluntary duties
+## <ins> Non-Academic Work Experience and Voluntary duties </ins>
 As important as it is to showcase experience from academia, it is equally important to highlight real-world experience. My previous non-academic work experience includes: waiting tables at cafés, telemarketer, busboy at a restaurant, Youth Leader at St Mary and St Paul Coptic Orthodox Church, as well as the occasional English/Math tutoring at public libraries or privately.
