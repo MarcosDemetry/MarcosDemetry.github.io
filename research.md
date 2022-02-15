@@ -12,9 +12,20 @@ This paper introduces the __Stata commands__ checkax, aei, and powers as a bundl
 
 [PDF](https://www.ifn.se/media/xf4bpowg/wp1342.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
 
-Cite: Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", _IFN Working Paper No. 1342_
 
-Cite Stata Package: Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 26 Nov 2020.
+<details>
+  <summary>Citation for Working Paper</summary>
+  
+Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", _IFN Working Paper No. 1342_
+
+</details>
+
+<details>
+  <summary>Citation for Stata package</summary>
+
+Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 26 Nov 2020.
+
+</details>
 
 ### 2. Segregation in Urban Areas
 
@@ -23,4 +34,10 @@ This literature review outlines research on how individual preferences can lead 
 
 [PDF](https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)
 
-Cite: Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", _Ratio Working Paper No. 304_
+<details>
+  <summary>Citation for Working Paper</summary>
+  
+Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", _Ratio Working Paper No. 304_
+
+</details>
+
