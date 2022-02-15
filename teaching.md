@@ -14,9 +14,11 @@ __Student feedback__ for my mentorship sessions were overwhelmingly positive; ra
   <p>
 
    Here's what attendance looked like for the three semesters I was a TA:
+  </p>
    <img src="/assets/img/micro_attendance.png" alt="micro_attendance" width="100%"/>
+  <p>
 
-   One pattern that stands out is the relatively high attendance right before the students' midterm exam and the immediate dip right after said exam. Another interesting observation is the absolute number of participants being higher during the spring semester. From what I've heard, this is because the spring semester is when it is most convenient for non-econ students to enroll in this course as an elective.
+   One pattern that stands out is the relatively <b>high attendance</b> right <b>before</b> the students' <b>midterm</b> exam and the immediate dip right after said exam. Another interesting observation is the absolute number of participants being higher during the spring semester. From what I've heard, this is because the spring semester is when it is most convenient for non-econ students to enroll in this course as an elective.
   </p>
 </details>
 
