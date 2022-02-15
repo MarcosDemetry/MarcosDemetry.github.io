@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-# Working Papers
+## Working Papers
 
 ### 1. Testing Aximoms of Revealed Preference in Stata
 
@@ -16,15 +16,18 @@ This paper introduces the __Stata commands__ checkax, aei, and powers as a bundl
 <details>
   <summary>Citation for Working Paper</summary>
   
-Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", <i>IFN Working Paper No. 1342</i>
+  <p>
 
+Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", <i>IFN Working Paper No. 1342</i>
+  </p>
 </details>
 
 <details>
   <summary>Citation for Stata package</summary>
 
+  <p>
 Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 26 Nov 2020.
-
+  </p>
 </details>
 
 ### 2. Segregation in Urban Areas
@@ -36,8 +39,13 @@ This literature review outlines research on how individual preferences can lead 
 
 <details>
   <summary>Citation for Working Paper</summary>
-  
-Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ratio Working Paper No. 304</i>
+  <p>
 
+Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ratio Working Paper No. 304</i>
+  </p>
 </details>
 
+## Ongoing Projects
+- "Sustainability Index"—with Professor Lars Persson, Associate Professor Pehr-Johan Norbäck and Simon Sällström.
+- "Law Formation and Adaptation Through Legal Characteristics"—with Ph.D. Nikita Koptyug
+- "Information Assymetries and Segregation: Evidence from Tenant-Owner's Associations"- with Ph.D. Nikita Koptyug
