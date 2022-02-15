@@ -33,8 +33,9 @@ Helping researchers with data gathering, webscraping in <b>Python</b>, building 
 Some fun stats: Here's the breakdown of the percentage of time spent on projects by the primary coding language or software used in that project. 
 </p>
 
-![time_spent_coding](/assets/img/time_spent_coding.png){: .mx-auto.d-block :}
-
+<div>
+  <img class="marginauto" src="/assets/img/time_spent_coding.png" alt="time_spent_coding" />
+</div>
 </details>
 
 
