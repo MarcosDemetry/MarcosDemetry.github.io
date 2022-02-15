@@ -28,15 +28,13 @@ Data cleaning and analysis in <b>R</b> for a select number of projects led by Ph
 
 Helping researchers with data gathering, webscraping in <b>Python</b>, building and cleaning dataset in <b>Stata</b>, creating tables and figures, proof-reading text and theoretical models, writing and translating text, formatting manuscripts for journal submissions and more. Tasks include handling vast Swedish register-data, as well as writing user-written commands in Stata.
 </p>
-- <details>
-    <summary>Fun stats</summary>
 
-    <p>
-      Of my total time spent on projects that involve coding, here's the breakdown for which programming languages (or software) was mostly used:
-    </p>
-    <img src="/assets/img/time_spent_coding.png" alt="time_spent_coding" width="50%"/>
+<p>
+Some fun stats: Here's the breakdown of the percentage of time spent on projects by the primary coding language or software used in that project. 
+</p>
 
-  </details>
+![time_spent_coding](/assets/img/time_spent_coding.png){: .mx-auto.d-block :}
+
 </details>
 
 
