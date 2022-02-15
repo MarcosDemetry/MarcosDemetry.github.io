@@ -9,4 +9,4 @@ Welcome to my personal webpage! I am currently a first year PhD student interest
 
 To make you feel at home, this is the view from the hill close to where I live.
 
-![Högdalstoppen](/assets/img/IMG_0372.jpeg){: width="1024" }
+<img src="/assets/img/IMG_0372.jpeg" alt="IMG_0372" width="100%"/>
