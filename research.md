@@ -16,7 +16,7 @@ This paper introduces the __Stata commands__ checkax, aei, and powers as a bundl
 <details>
   <summary>Citation for Working Paper</summary>
   
-Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", _IFN Working Paper No. 1342_
+Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", <i>IFN Working Paper No. 1342</i>
 
 </details>
 
@@ -37,7 +37,7 @@ This literature review outlines research on how individual preferences can lead 
 <details>
   <summary>Citation for Working Paper</summary>
   
-Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", _Ratio Working Paper No. 304_
+Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ratio Working Paper No. 304</i>
 
 </details>
 
