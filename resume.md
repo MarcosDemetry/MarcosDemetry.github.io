@@ -80,5 +80,5 @@ Labor strikes and other labor union action play a vital role in labor market out
 
 [See research details here](research.md)
 
-## <ins> Non-Academic Work Experience and Voluntary duties </ins>
+## <ins> Non-Academic Work Experience</ins>
 As important as it is to showcase experience from academia, it is equally important to highlight real-world experience. My previous non-academic work experience includes: waiting tables at cafés, telemarketer, busboy at a restaurant, Youth Leader at St Mary and St Paul Coptic Orthodox Church, as well as the occasional English/Math tutoring at public libraries or privately.
