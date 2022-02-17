@@ -38,7 +38,7 @@ This literature review outlines research on how individual preferences can lead 
 <details>
   <summary>Powerpoint presentation at Ratio (August 2017)</summary>
 
-<iframe src="https://linnaeus-my.sharepoint.com/personal/madeaa_lnu_se/_layouts/15/Doc.aspx?sourcedoc={d2ed4475-19fe-4114-93b3-3c0472f115db}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+<iframe src="https://linnaeus-my.sharepoint.com/:p:/g/personal/madeaa_lnu_se/EXVE7dL-GRRBk7M8BHLxFdsB3f1bZBfLxUeQ0cA2vMtmgw?e=u0fMwW&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 
 </details>
 
