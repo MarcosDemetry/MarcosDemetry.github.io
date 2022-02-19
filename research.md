@@ -5,7 +5,7 @@ title: Research
 
 ## <ins>Working Papers</ins>
 
-### 1. Testing Aximoms of Revealed Preference in Stata
+### 1. Testing Axioms of Revealed Preference in Stata
 [PDF](https://www.ifn.se/media/xf4bpowg/wp1342.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
 
 Abstract:
