@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Teaching: "teaching"
-  Resume: "resume"
+  Resume: "résumé"
 
 relative-links:
   enabled: true
@@ -81,7 +81,7 @@ feed_show_tags: false
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "PhD,economics,segregation,Linnaeus university"
+keywords: "PhD, economics, segregation, Linnaeus university, research, urban economics, econ"
 
 # --- Colours / background image --- #
 
