@@ -27,7 +27,7 @@ Data cleaning and analysis in <b>R</b> for a select number of projects led by Ph
 
 <p>
 
-Helping researchers with data gathering, webscraping in <b>Python</b>, building and cleaning dataset in <b>Stata</b>, creating tables and figures, proof-reading text and theoretical models, writing and translating text, formatting manuscripts for journal submissions and more. Tasks include handling vast Swedish register-data, as well as writing user-written commands in Stata.
+Helping researchers with data gathering, webscraping in <b>Python</b>, building and cleaning datasets in <b>Stata</b>, creating tables and figures, proof-reading text and theoretical models, writing and translating text, formatting manuscripts for journal submissions and more. Tasks include handling vast Swedish register-data, as well as writing user-written commands in Stata.
 </p>
 
 <p>
