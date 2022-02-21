@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 ---
 
 ## <ins>Current position</ins>
