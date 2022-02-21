@@ -37,6 +37,7 @@ Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "RPAXIOMS: Stata m
   </p>
 </details>
 
+
 ### 2. Segregation in Urban Areas
 [PDF](https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)
 
@@ -61,7 +62,8 @@ Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ra
   </p>
 </details>
 
+
 ## <ins>Ongoing Projects</ins>
+- "Information Asymetries and Segregation: The health of tenant-owner's associations finances"- with Ph.D. Nikita Koptyug
 - "Sustainability Index"—with Professor Lars Persson, Associate Professor Pehr-Johan Norbäck and Simon Sällström.
 - "Law Formation and Adaptation Through Legal Characteristics"—with Ph.D. Nikita Koptyug
-- "Information Asymetries and Segregation: The health of tenant-owner's associations finances"- with Ph.D. Nikita Koptyug
