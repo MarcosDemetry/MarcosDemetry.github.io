@@ -11,6 +11,15 @@ title: Research
 Abstract:
 This paper introduces the __Stata commands__ checkax, aei, and powers as a bundle within the package rpaxioms. The first command allows the user to __test__ whether __consumer demand data__ satisfy a number of revealed preference axioms at a given efficiency level, the second command calculates measures of __goodness-of-fit__ when the data violate these axioms, and the third command calculates __power against uniformly random behavior__ as well as predictive success for each axiom at any given efficiency level. The commands are illustrated using experimental individual-level data and aggregated household-level consumption data. 
 
+<details>
+  <summary>Project Timeline from Start until Today</summary>
+  
+  </p>
+   <img src="/assets/img/rpaxioms_paper_timeline.png" alt="Project timeline" width="100%"/>
+  <p>
+
+</details>
+
 
 <details>
   <summary>Citation for Working Paper</summary>
