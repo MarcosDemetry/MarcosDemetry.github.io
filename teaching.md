@@ -23,4 +23,4 @@ __Student feedback__ for my mentorship sessions were overwhelmingly positive; ra
 </details>
 
 ### Principles of Micro- and Macroeconomics, Uppsala University
-__Teaching Assistant__ for the first-year undergraduate course A/Principles of Micro- and Macroeconomics. As a seminar leader, I discussed and __evaluated term papers__ and __presentations__ on economic theory and its applications by the students. The students participated in __three seminars__ where they producde a paper on a topic of their choice within economic theory, and in the final seminar both presented and defended their paper.
+__Teaching Assistant__ for the first-year undergraduate course A/Principles of Micro- and Macroeconomics. As a seminar leader, I discussed and __evaluated term papers__ and __presentations__ on economic theory and its applications by the students. The students participated in __three seminars__ where they produced a paper on a topic of their choice within economic theory, and in the final seminar both presented and defended their paper.
