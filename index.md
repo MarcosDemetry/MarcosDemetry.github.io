@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Marcos Demetry
 subtitle: PhD Student in Economics at Linnaeus University
 use-site-title: true

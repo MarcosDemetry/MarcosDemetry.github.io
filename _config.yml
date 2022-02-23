@@ -18,6 +18,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Résumé: "resume"
+  Blog posts: "blog"
 
 relative-links:
   enabled: true
