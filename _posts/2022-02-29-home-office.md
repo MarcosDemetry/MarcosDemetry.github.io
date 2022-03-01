@@ -7,12 +7,12 @@ tags: [productivity, personal, office]
 ---
 
 ## The Room
-I enjoy natural sunlight but, especially during the winter, we don't get enough of it. My room is completely set-up with [Philips Hue](https://www.philips-hue.com/en-us)) lights. This ranges from spotlights (facing the desk and where I like to read), to lightstrips behind my bookshelf and under the desk. The lights are controlled by an app and a physical portable [Dimmer Switch](https://www.philips-hue.com/en-us/p/hue-dimmer-switch--latest-model-/046677562779). Overall, the room is vibrant and aesthetically pleasing, much thanks to the lighting. One word of caution is how sensitive the lightstrips are. If you start moving them around the room (because you change your mind about their location), the adhesive isn't strong enough to stick to the 2nd or 3rd spot you choose (talking from experience). 9/10.
+I enjoy natural sunlight but, especially during the winter, we don't get enough of it. My room is completely set-up with [Philips Hue](https://www.philips-hue.com/en-us) lights. This ranges from spotlights (facing the desk and where I like to read), to lightstrips behind my bookshelf and under the desk. The lights are controlled by an app and a physical portable [Dimmer Switch](https://www.philips-hue.com/en-us/p/hue-dimmer-switch--latest-model-/046677562779). Overall, the room is vibrant and aesthetically pleasing, much thanks to the lighting. One word of caution is how sensitive the lightstrips are. If you start moving them around the room (because you change your mind about their location), the adhesive isn't strong enough to stick to the 2nd or 3rd spot you choose (talking from experience). 9/10.
 
-Faced with choices, we often have constraints. I couldn't have a home-office just anywhere around the house, and the practical area was in my room. Given this constraint, I made with what I had. One thing I was adamant about is that I do not want to sit staring at the wall. So, the desk is placed such that I am facing two small windows. This makes a huge difference. I enjoy the view of the forest, birds chirping sounds, and the fresh air from keeping a window open. Now, what is this desk, you ask.
+Faced with choices, we often have constraints. I couldn't have a home-office just anywhere around the house, and the most practical area to have it was in my room. Given this constraint, I made with what I had. One thing I was adamant about is that I do not want to sit staring at the wall. So, the desk is placed such that I am facing two small windows. This makes a huge difference. I enjoy the view of the forest, the sound of birds chirping, and the fresh air from keeping a window open. Now, what is this desk, you ask.
 
 ## The Desk in the Room
-Being Swedish, nothing beats a good piece of IKEA furniture. My desk is 160x80 cm, height-adjustable (65–125cm), white desk of the model [BEKANT](https://www.ikea.com/se/sv/p/bekant-skrivbord-sitt-sta-vit-s69022537/). The width and the depth of the desk at first seem excessive, but I found that it allows me just enough space to have my monitor a fair distance away from me and gives me room to have some textbooks and notepads laying around. One drawback of having a white desk is that it gets dirty rather quickly. I find myself constantly cleaning it (which might as well be a sign of procrastination). All in all, 9/10.
+Being Swedish, nothing beats a good piece of IKEA furniture. My desk is a 160x80 cm, height-adjustable (65–125cm), white desk of the model [BEKANT](https://www.ikea.com/se/sv/p/bekant-skrivbord-sitt-sta-vit-s69022537/). The width and the depth of the desk at first seem excessive, but I found that it allows me just enough space to have my monitor a fair distance away from me and gives me room to have some textbooks and notepads laying around. One drawback of having a white desk is that it gets dirty rather quickly. I find myself constantly cleaning it (which might as well be a sign of procrastination). All in all, 9/10.
 
 ## The Things on the Desk in the Room
 A monitor, a computer, a charging station (for my Apple products). That's it. 
@@ -25,6 +25,8 @@ The charging station is a a [Belkin Boost Charge 3-in-1 Wireless Charger for App
 
 
 ## Other Things on or around the Desk in the Room
+For my lectures and meetings, I found that the MacBook Pro camera shows me from an unflattering angle (often showing a profile view because I have the MBP to my side and angled upwards). So, I went with a [Logitech c920 PRO HD webcam](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html). 
+
 Like most people, working from home can be frustrating if there isn't peace and quiet. I try to acheive this in two ways.
 
 First, and most importantly, by having noise cancelling headphones you can completely focus on wasting your time the way YOU WANT TO WASTE YOUR TIME. I opted for the [BOSE QuietComfort 45](https://www.bose.se/sv_se/products/headphones/noise_cancelling_headphones/quietcomfort-headphones-45.html#v=qc45_black). It has three options for noise cancellation: high, low or off. It automatically connects to up to two devices via Bluetooth (the last two it was connected to before powering off). This is great if you're listening to music via the laptop and get a phonecall on the phone. It automatically detects which device is outputing sound and switches to it (although, it's a bit buggy at times). 9/10.
@@ -33,5 +35,4 @@ Secondly, I am an arms length away from a small coffee machine and I've loaded u
 
 <p>
     <img src="/assets/img/scented_candle.jpeg" alt="Scented candle" width="100%"/>
-
 </p>
