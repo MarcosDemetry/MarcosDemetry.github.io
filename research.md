@@ -17,6 +17,7 @@ This paper introduces the __Stata commands__ checkax, aei, and powers as a bundl
   <p>
     <img src="/assets/img/rpaxioms_paper_timeline_part1.png" alt="Project timeline part 1" width="100%"/>
     <img src="/assets/img/rpaxioms_paper_timeline_part2.png" alt="Project timeline part 2" width="100%"/>
+    <img src="/assets/img/rpaxioms_paper_timeline_part3.png" alt="Project timeline part 3" width="100%"/>
   </p>
 </details>
 
