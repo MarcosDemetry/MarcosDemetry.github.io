@@ -3,8 +3,8 @@ layout: page
 title: Research
 ---
 ## <ins>In progress</ins>
-#### Consistent Subsets: Computing the Houtman-Maks index in Stata
-[Preliminary Draft PDF](MarcosDemetry/MarcosDemetry.github.io/assets/articles/hmindex-v1.pdf) -- [Github Repo](https://github.com/MarcosDemetry/hmindex)
+### Consistent Subsets: Computing the Houtman-Maks index in Stata
+[Preliminary Draft PDF](assets/articles/hmindex-v1.pdf) -- [Github Repo](https://github.com/MarcosDemetry/hmindex)
 
 Abstract:
 The Houtman-Maks index is a measure of the size of a violation of utility maximizing (i.e. rational) behavior. This 
