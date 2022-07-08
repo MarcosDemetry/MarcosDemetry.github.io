@@ -13,13 +13,17 @@ prices and observed choices of a consumer. The command is illustrated with an em
 
 Co-authored with Per Hjertstrand.
 
-## <ins>Working Papers</ins>
+## <ins>Publications</ins>
 
 ### 1. Testing Axioms of Revealed Preference in Stata
-[PDF](https://www.ifn.se/media/xf4bpowg/wp1342.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
+[PDF](assets/articles/Demetry-et-al-2022.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
 
 Abstract:
-This paper introduces the __Stata commands__ checkax, aei, and powers as a bundle within the package rpaxioms. The first command allows the user to __test__ whether __consumer demand data__ satisfy a number of revealed preference axioms at a given efficiency level, the second command calculates measures of __goodness-of-fit__ when the data violate these axioms, and the third command calculates __power against uniformly random behavior__ as well as predictive success for each axiom at any given efficiency level. The commands are illustrated using experimental individual-level data and aggregated household-level consumption data. 
+The revealed preference approach in economics is central to the empirical analysis of consumer behavior. In this article, we introduce the __Stata commands__
+checkax, aei, and powerps as a bundle within the package rpaxioms. The first command allows a user to __test__ whether consumer expenditure data satisfy several
+__revealed preference axioms__; the second command calculates measures of __goodness of fit__ when the data violate these axioms; and the third command calculates
+__power against uniformly random behavior__ as well as predictive success for each axiom. We illustrate the commands using individual-level experimental data and
+household-level aggregate consumption data.
 
 <details>
   <summary>Project Timeline from Start until Today</summary>
@@ -32,11 +36,10 @@ This paper introduces the __Stata commands__ checkax, aei, and powers as a bundl
 </details>
 
 <details>
-  <summary>Citation for Working Paper</summary>
+  <summary>Citation</summary>
   
   <p>
-
-Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of Revealed Preference in Stata", <i>IFN Working Paper No. 1342</i>
+Demetry, M., Hjertstrand, P. and Polisson, M., 2022. Testing axioms of revealed preference in Stata. <i>The Stata Journal</i>, 22(2), pp.319-343.
   </p>
 </details>
 
@@ -44,12 +47,13 @@ Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "Testing Axioms of
   <summary>Citation for Stata package</summary>
 
   <p>
-Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 26 Nov 2020.
+Marcos Demetry & Per Hjertstrand & Matthew Polisson, 2020. "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 10 Jun 2022.
+<https://ideas.repec.org/c/boc/bocode/s458800.html>
   </p>
 </details>
 
 
-### 2. Segregation in Urban Areas
+### 2. Segregation in Urban Areas (WP)
 [PDF](https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)
 
 Abstract:
@@ -74,7 +78,7 @@ Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ra
 </details>
 
 
-## <ins>Ongoing Projects</ins>
+## <ins>Other ongoing projects</ins>
 - "Information Asymetries and Segregation: The health of tenant-owner's associations finances"- with Ph.D. Nikita Koptyug
 - "Sustainability Index"—with Professor Lars Persson, Associate Professor Pehr-Johan Norbäck and Simon Sällström.
 - "Law Formation and Adaptation Through Legal Characteristics"—with Ph.D. Nikita Koptyug
