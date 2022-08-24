@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Baysian Match
+title: A Bayesian Match
 subtitle: ...Monty Hall Problem and Dominoes
 tags: [reflections]
 ---
