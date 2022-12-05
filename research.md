@@ -2,9 +2,9 @@
 layout: page
 title: Research
 ---
-## <ins>In progress</ins>
-### Consistent Subsets: Computing the Houtman-Maks index in Stata
-[Preliminary Draft PDF](assets/articles/hmindex-v2.pdf) -- [Github Repo](https://github.com/MarcosDemetry/hmindex)
+## <ins>Publications</ins>
+### 1. Consistent Subsets: Computing the Houtman-Maks index in Stata _(Forthcoming, Stata Journal)_
+[WP version](assets/articles/hmindex-v2.pdf) -- [Github Repo](https://github.com/MarcosDemetry/hmindex)
 
 Abstract:
 The Houtman-Maks index is a measure of the size of a violation of utility maximizing (i.e. rational) behavior. This 
@@ -13,9 +13,7 @@ prices and observed choices of a consumer. The command is illustrated with an em
 
 Co-authored with Per Hjertstrand.
 
-## <ins>Publications</ins>
-
-### 1. Testing Axioms of Revealed Preference in Stata
+### 2. Testing Axioms of Revealed Preference in Stata
 [PDF](assets/articles/Demetry-et-al-2022.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
 
 Abstract:
@@ -53,7 +51,7 @@ Marcos Demetry & Per Hjertstrand & Matthew Polisson, 2020. "RPAXIOMS: Stata modu
 </details>
 
 
-### 2. Segregation in Urban Areas (WP)
+### 3. Segregation in Urban Areas (WP)
 [PDF](https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)
 
 Abstract:
