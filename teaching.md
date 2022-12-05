@@ -2,6 +2,14 @@
 layout: page
 title: Teaching
 ---
+## <ins>As lecturer</ins>
+### Advanced Microeconomics, Linnaeus University
+Two lectures and an exercise session covering __welfare__, market inefficiencies, and __behavioral__ economics with applications to environmental sustainability.
+
+### Intermediate Microeconomics, Linnaeus University
+Two lectures and an exercise session covering externalities, public goods and __asymmetric information__.
+
+## <ins>As teaching assistant (TA)</ins>
 
 ### Microeconomics with Applications, Uppsala University
 __Teaching Assistant__ for the second-year course, B/Microeconomics with Applications. My task was helping students navigate microeconomics and introducing them to game theory. The __mentoring__ took place through discussions with the students, __solving exercises on the board__, and __helping one-on-one__ in person or via e-mail. The mentorship took place __once a week__ and was three hours long.
