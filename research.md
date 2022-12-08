@@ -12,8 +12,15 @@ note introduces the _Stata_ command __hmindex__, which calculates the Houtman-Ma
 prices and observed choices of a consumer. The command is illustrated with an empirical application.
 
 Co-authored with Per Hjertstrand.
+<details>
+  <summary>Citation</summary>
+  
+  <p>
+Demetry, M. and Hjertstrand, P. [Forthcoming]. Consistent Subsets: Computing the Houtman-Maks index in Stata. <i>The Stata Journal</i>. Accepted.
+  </p>
+</details>
 
-### 2. Testing Axioms of Revealed Preference in Stata
+### 2. Testing Axioms of Revealed Preference in Stata _(Stata Journal)_
 [PDF](assets/articles/Demetry-et-al-2022.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
 
 Abstract:
