@@ -44,7 +44,7 @@ household-level aggregate consumption data.
   <summary>Total Downloads: 1400</summary>
   
   <p>
-    <img src="/assets/img/rpaxioms_cumulative_hits.png" alt="number of downloads"/>
+    <img src="/assets/img/rpaxioms_cumulative_hits.png" alt="number of downloads" width="100%"/>
   </p>
 </details>
 
