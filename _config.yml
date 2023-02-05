@@ -15,9 +15,9 @@ author: Marcos Demetry
 
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
   Teaching: "teaching"
   Résumé: "resume"
-  Research: "research"
 
 relative-links:
   enabled: true
