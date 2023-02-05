@@ -47,8 +47,8 @@ social-network-links:
   github: MarcosDemetry
   twitter: MarcosDemetry
   linkedin: marcos-demetry-8a3aa734
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: https://orcid.org/0000-0001-5187-3846
+  google-scholar: https://scholar.google.com/citations?user=5B-ekOQAAAAJ&hl=en&oi=ao
 #  medium: yourname
 
 # If you want your website to generate an RSS feed, provide a description
