@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Research
 ---
 ## <ins>Publications & Ongoing Projects</ins>
