@@ -1,0 +1,43 @@
+---
+layout: page
+thumbnail-img: /assets/img/plot2_BL_actual_preferred.png
+title: Testing Axioms of Revealed Preference in Stata _(Stata Journal)_
+---
+[PDF](assets/articles/Demetry-et-al-2022.pdf) -- [Github Repo](https://github.com/MarcosDemetry/rpaxioms_repo)
+
+Abstract:
+The revealed preference approach in economics is central to the empirical analysis of consumer behavior. In this article, we introduce the __Stata commands__
+checkax, aei, and powerps as a bundle within the package rpaxioms. The first command allows a user to __test__ whether consumer expenditure data satisfy several
+__revealed preference axioms__; the second command calculates measures of __goodness of fit__ when the data violate these axioms; and the third command calculates
+__power against uniformly random behavior__ as well as predictive success for each axiom. We illustrate the commands using individual-level experimental data and
+household-level aggregate consumption data.
+
+Citation:
+Demetry, M., Hjertstrand, P. and Polisson, M., 2022. Testing axioms of revealed preference in Stata. <i>The Stata Journal</i>, 22(2), pp.319-343.
+
+<details>
+  <summary>Project Timeline from Start until Today</summary>
+  
+  <p>
+    <img src="/assets/img/rpaxioms_paper_timeline_part1.png" alt="Project timeline part 1" width="100%"/>
+    <img src="/assets/img/rpaxioms_paper_timeline_part2.png" alt="Project timeline part 2" width="100%"/>
+    <img src="/assets/img/rpaxioms_paper_timeline_part3.png" alt="Project timeline part 3" width="100%"/>
+  </p>
+</details>
+
+<details>
+  <summary>Total Downloads: 1400</summary>
+  
+  <p>
+    <img src="/assets/img/rpaxioms_cumulative_hits.png" alt="number of downloads" width="100%"/>
+  </p>
+</details>
+
+<details>
+  <summary>Citation for Stata package</summary>
+
+  <p>
+Marcos Demetry & Per Hjertstrand & Matthew Polisson, 2020. "RPAXIOMS: Stata module to test and evaluate axioms of revealed preferences," Statistical Software Components S458800, Boston College Department of Economics, revised 10 Jun 2022.
+<https://ideas.repec.org/c/boc/bocode/s458800.html>
+  </p>
+</details>
