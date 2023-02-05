@@ -17,4 +17,4 @@ Demetry, Marcos (2017). "Segregation in Urban Areas: A literature review", <i>Ra
     <iframe src="https://onedrive.live.com/embed?cid=E4F2CDB16BE3710E&amp;resid=E4F2CDB16BE3710E%21105&amp;authkey=AOGaHIw3z49wbz8&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </center>
 
-[Back to Research](../research.md)
+[Back to Research](./research.md)
