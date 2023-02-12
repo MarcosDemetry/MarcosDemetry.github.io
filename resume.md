@@ -86,5 +86,11 @@ Labor strikes and other labor union action play a vital role in labor market out
 
 [See research details here](research.md)
 
+## <ins>Conferences</ins>
+- 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
+- 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
+- 2018: Nordic Initiative for Corporate Economics, NICE (Stockholm, Sweden)
+
+
 ## <ins> Non-Academic Work Experience</ins>
 As important as it is to showcase experience from academia, it is equally important to highlight real-world experience. My previous non-academic work experience includes: waiting tables at cafés, telemarketer, busboy at a restaurant, Youth Leader at St Mary and St Paul Coptic Orthodox Church, as well as the occasional English/Math tutoring at public libraries or privately.
