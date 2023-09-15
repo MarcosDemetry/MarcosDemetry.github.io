@@ -17,10 +17,7 @@ Teaching Assistant for a second-year undergraduate course. My task was helping s
 Student feedback for my mentorship sessions were overwhelmingly positive; ranging from 4.0/5.0 in my first semester to __4.8/5.0__ in my third, and last, semester.
 
 Here's what attendance looked like for the three semesters I was a TA:
-
-</p>
-  <img src="/assets/img/micro_attendance.png" alt="micro_attendance" width="100%"/>
-<p>
+<img src="/assets/img/micro_attendance.png" alt="micro_attendance" width="100%"/>
 
 #### Principles of Micro- and Macroeconomics
 Teaching Assistant for a first-year undergraduate course. As a seminar leader, I discussed and __evaluated term papers__ and presentations on economic theory and its applications by the students. The students participated in __three seminars__ where they produced a paper on a topic of their choice within economic theory, and in the final seminar both presented and defended their paper. _Uppsala University (2019)_
