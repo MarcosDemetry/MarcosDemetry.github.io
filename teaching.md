@@ -28,5 +28,6 @@ Here's what attendance looked like for the three semesters I was a TA:
   </p>
 </details>
 
+
 #### Principles of Micro- and Macroeconomics
 Teaching Assistant for a first-year undergraduate course. As a seminar leader, I discussed and __evaluated term papers__ and presentations on economic theory and its applications by the students. The students participated in __three seminars__ where they produced a paper on a topic of their choice within economic theory, and in the final seminar both presented and defended their paper. _Uppsala University (2019)_
