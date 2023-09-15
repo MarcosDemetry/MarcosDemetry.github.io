@@ -21,14 +21,6 @@ Here's what attendance looked like for the three semesters I was a TA:
 </p>
   <img src="/assets/img/micro_attendance.png" alt="micro_attendance" width="100%"/>
 <p>
-<details>
-  <summary>Note on attendance</summary>
-
-  <p>
-   One pattern that stands out is the relatively <b>high attendance</b> right <b>before</b> the students' <b>midterm</b> exam and the immediate dip right after said exam. Another interesting observation is the absolute number of participants being higher during the spring semester. From what I've heard, this is because the spring semester is when it is most convenient for non-econ students to enroll in this course as an elective. A third interesting observation is that the first and last session of each semester have the exact same number of students.
-  </p>
-</details>
-
 
 #### Principles of Micro- and Macroeconomics
 Teaching Assistant for a first-year undergraduate course. As a seminar leader, I discussed and __evaluated term papers__ and presentations on economic theory and its applications by the students. The students participated in __three seminars__ where they produced a paper on a topic of their choice within economic theory, and in the final seminar both presented and defended their paper. _Uppsala University (2019)_
