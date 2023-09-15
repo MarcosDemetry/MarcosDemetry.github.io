@@ -17,6 +17,7 @@ Teaching Assistant for a second-year undergraduate course. My task was helping s
 Student feedback for my mentorship sessions were overwhelmingly positive; ranging from 4.0/5.0 in my first semester to __4.8/5.0__ in my third, and last, semester.
 
 Here's what attendance looked like for the three semesters I was a TA:
+
 </p>
   <img src="/assets/img/micro_attendance.png" alt="micro_attendance" width="100%"/>
 <p>
