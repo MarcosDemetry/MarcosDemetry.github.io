@@ -18,5 +18,5 @@ Here are some plots for the number of seminars and brown bags that I have attend
 <img src = "/assets/img/Total-number-of-seminars-and-brown-bags-pie-chart.png" width ="100%"/>
 <img src = "/assets/img/Total-number-of-seminars-and-brown-bags-per-host-institution-pie-chart.png" width ="100%"/>
 <img src = "/assets/img/Total-number-of-seminars-and-brown-bags-per-academic-position.png" width ="100%"/>
-<img src = "/assets/img/Total-number-of-own-presentations-per-academic-year.pn" width ="100%"/>
+<img src = "/assets/img/Total-number-of-own-presentations-per-academic-year.png" width ="100%"/>
 
