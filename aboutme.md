@@ -68,5 +68,5 @@ My favorite outlier is Balaji Srinivasan's episode, at an impressive 7 hours 47 
 
 
 ## 3 Guess the Journal
-<iframe src = "/assets/img/blog-exploring-SJ/collaboration_network.html" width ="100%" height ="30%"></iframe>
+<iframe src = "/assets/img/blog-exploring-SJ/collaboration_network.html" width ="100%" height = "200"></iframe>
 
