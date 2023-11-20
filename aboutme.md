@@ -54,7 +54,9 @@ Basically, a lot of AI, physics, human nature, and our future.
 <img src = "/assets/img/blog-exploring-LFP/top_20_bigrams.png" width ="100%"/>
 
 Beyond the title, they must talk about several different stuff in the actual interview.
-<!-- For the episodes with timestamps available, we can see the average number of topics per episode. -->
+For the episodes with timestamps available, we can see the average number of topics per episode is around 18.
+<img src = "/assets/img/blog-exploring-LFP/timestamps_count.png" width ="100%"/>
+
 The length of the episode correlates positively with the length of the episode.
 My favorite outlier is Balaji Srinivasan's episode, at an impressive 7 hours 47 minutes and 52 seconds.
 <img src = "/assets/img/blog-exploring-LFP/regplot_timestamps_vs_pod_length.png" width ="100%"/>
