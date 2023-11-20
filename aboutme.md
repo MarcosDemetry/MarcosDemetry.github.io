@@ -65,3 +65,7 @@ My favorite outlier is Balaji Srinivasan's episode, at an impressive 7 hours 47 
 
 
 [Back to top](#guiding-principles), [Previous topic](#1-seminar-participation) 
+
+
+## 3 Guess the Journal
+<iframe src = "/assets/img/blog-exploring-SJ/collaboration-network.html" width ="100%"></iframe>
