@@ -73,8 +73,9 @@ This journal will always be special to me because it has my first peer-reviewed 
 As an homage, I scraped data on the article title, volume, issue, and author names.
 
 Since their start in 2001, they have published 23 volumes containing 1251 articles and 1081 unique authors.
-Some authors collaborate together several times, which gives us 738 unique author combinations.
+<img src = "/assets/img/blog-exploring-SJ/count_articles_per_volume.png" width ="100%"/>
 
+Some authors collaborate together several times, which gives us 738 unique author combinations.
 Top authors (counting their appearance as single authors and co-authors) yields:
 <img src = "/assets/img/blog-exploring-SJ/top_authors.png" width ="100%"/>
 
@@ -97,6 +98,9 @@ Using words from the abstracts, we see some clear clusters.
 There's a programming cluster (green-purple, bottom-right), statistics cluster (green-yellow, top-left),
 economics/econometrics cluster (yellow, bottom-left).
 <img src = "/assets/img/blog-exploring-SJ/terms_occurances.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-SJ/statistics_cluster.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-SJ/economics_cluster.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-SJ/programming_cluster.png" width ="100%"/>
 
 
 [Back to top](#guiding-principles), [Previous topic](#2-exploring-the-lex-fridman-podcast) 
