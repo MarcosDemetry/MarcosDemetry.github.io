@@ -128,7 +128,7 @@ For my top 30, a quick run using the [IMDB/Cinemagoer](https://cinemagoer.github
 information on genres, ratings and release years.
 <img src = "/assets/img/blog-exploring-Netflix/imdb_first_genre.png" width ="100%"/>
 <img src = "/assets/img/blog-exploring-Netflix/imdb_rating_distribution.png" width ="100%"/>
-<img src = "/assets/img/blog-exploring-Netflix/imdb_first_year.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-Netflix/imdb_year.png" width ="100%"/>
 
 One day, I may take these BUS seriously. Today is not that day.
 In the words of Maximus Decimus Meridius, "Are you not entertained? Is this not why you are here?"
