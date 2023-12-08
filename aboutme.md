@@ -26,11 +26,11 @@ Last updated 2023-12–07: Here are some plots for the seminars and brown bags t
 <img src = "/assets/img/blog-seminar-participation/Cumulative-number-of-seminars-and-brown-bags-by-Month-year.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-seminars-per-year.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-seminars-per-academic-year.png" width ="100%"/>
-<img src = "/assets/img/blog-seminar-participation/Unique-presenters-by-gender.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-pie-chart.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-per-host-institution-pie-chart.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-per-academic-position.png" width ="100%"/>
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-own-presentations-per-academic-year.png" width ="100%"/>
+<img src = "/assets/img/blog-seminar-participation/Unique-presenters-by-gender.png" width ="100%"/>
 
 [Back to top](#guiding-principles)
 
