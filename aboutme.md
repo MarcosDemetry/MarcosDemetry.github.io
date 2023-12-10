@@ -44,6 +44,16 @@ I've had the honor of presenting a few times myself:
 Econ gets a lot of crap for its gender imbalance. And it is still has a highly skewed gender distribution. This is looking at presenters' genders, but the share of men would be even higher if I counted per presentation instead of per presenter (since I've seen some people present multiple times, and it's mostly been men).
 <img src = "/assets/img/blog-seminar-participation/Unique-presenters-by-gender.png" width ="100%"/>
 
+If you are like me<sup>*</sup>, you've gone around wondering the following:
+Which is more popular among economists, Google Sites or Github Pages?
+I don't have a definitive answer, but use this figure to argue about it at the pub.<sup>&dagger;</sup>
+<img src = "/assets/img/blog-seminar-participation/Unique-presenters-by-personal-website.png" width ="100%"/>
+
+
+<sup>*</sup> Congrats! That's a big win.
+<sup>&dagger;</sup> How representative is my sample to the sample of all economists? Squarespace + Google Domains = True. Google Sites has a relative majority, but is that all that counts to declare victory?
+I will start campaigning to get people with no personal websites to create a Github Pages.
+
 [Back to top](#guiding-principles)
 
 ## 2 Exploring the Lex Fridman Podcast ##
