@@ -41,7 +41,7 @@ Not surprising, most presentations are given by PhD students or APs.
 I've had the honor of presenting a few times myself:
 <img src = "/assets/img/blog-seminar-participation/Total-number-of-own-presentations-per-academic-year.png" width ="100%"/>
 
-Econ gets a lot of crap for its gender imbalance. And it is still has a highly skewed gender distribution. This is looking at presenters' genders, but the share of men would be even higher if I counted per presentation instead of per presenter (since I've seen some people present multiple times, and it's mostly been men).
+Econ gets a lot of crap for its gender imbalance. And it has a highly skewed gender distribution. This is looking at presenters' genders, but the share of men would be even higher if I counted per presentation instead of per presenter (since I've seen some people present multiple times, and it's mostly been men).
 <img src = "/assets/img/blog-seminar-participation/Unique-presenters-by-gender.png" width ="100%"/>
 
 If you are like me<sup>*</sup>, you've gone around wondering the following:
