@@ -217,7 +217,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "_research"
+      path: "research"
       type: "posts"
     values:
       layout: "post"
@@ -225,7 +225,7 @@ defaults:
       social-share: true
   -
     scope:
-      path: "_bus"
+      path: "bus"
       type: "posts"
     values:
       layout: "post"
