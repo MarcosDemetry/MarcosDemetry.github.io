@@ -57,6 +57,7 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
 Uploaded 2023–11–20; Last updated 2024–12–09
+
 [Back to top](#guiding-principles)
 
 ## 2 Exploring the Lex Fridman Podcast ##
@@ -92,6 +93,7 @@ My favorite outlier is Balaji Srinivasan's episode, at an impressive 7 hours 47 
 <img src = "/assets/img/blog-exploring-LFP/barplot_timestamps_vs_pod_length.png" width ="100%"/>
 
 Uploaded 2023–11–20; Last updated 2023–11–20
+
 [Back to top](#guiding-principles), [Previous topic](#1-seminar-participation) 
 
 
@@ -128,6 +130,7 @@ economics/econometrics cluster (yellow, bottom-left).
 <img src = "/assets/img/blog-exploring-SJ/terms_occurances.png" width ="100%"/>
 
 Uploaded 2023–11–21; Last updated 2023–11–21
+
 [Back to top](#guiding-principles), [Previous topic](#2-exploring-the-lex-fridman-podcast) 
 
 ## 4 Exploring my Netflix
@@ -161,6 +164,7 @@ One day, I may take these BUS seriously. Today is not that day.
 In the words of Maximus Decimus Meridius, "Are you not entertained? Is this not why you are here?"
 
 Uploaded 2023–12–01; Last updated 2023-12-01
+
 [Back to top](#guiding-principles), [Previous topic](#3-exploring-the-stata-journal) 
 
 ## 5 Exploring my library
@@ -203,6 +207,7 @@ As usual, I love exploring my life with data! And it is beautifully flawed, skew
 One day, I'll merge all my datasets capturing different aspects of life on date, and it will be absolutely marvelous. Until then, take care and see you on the next BUS!
 
 Uploaded 2023–12–21; Last updated 2023–12–21
+
 [Back to top](#guiding-principles), [Previous topic](#4-exploring-my-netflix) 
 
 ## 6 Exploring ASSA 2024
@@ -211,25 +216,26 @@ This conference gathers around 70 associations and has poster sessions, over 180
 
 First, the biggest association represented in ASSA, as measured by count of sessions hosted by this association is the American Economic Association (AEA). The (not so close) second largest association is AFA. The figure below shows the top 20 assocations.
 
-<img src = "/assets/img/blog-ASSA2024/sessions_per_association_top20.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/sessions_per_association_top20.png" width ="100%"/>
 
 Each session has on average around 4 presentations.
-<img src = "/assets/img/blog-ASSA2024/papers_per_session.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/papers_per_session.png" width ="100%"/>
 
 These papers had on average 2.5 authors per paper. There's quite 
-<img src = "/assets/img/blog-ASSA2024/authors_per_paper.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/authors_per_paper.png" width ="100%"/>
 
 Some researchers were a part of the author team for several papers or presentations—and they are:
-<img src = "/assets/img/blog-ASSA2024/top_30_authors.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/top_30_authors.png" width ="100%"/>
 
 Researchers whose names are listed as authors to papers presented at the conference—where are they affiliated?
 The top 30 institutes represented at the conference come as no surprise. Chicago, Stanford, Columbia, the Fed, MIT and UC Berkeley are on top. (I had to count the top 6, not top 3 or top 5, to include Berkeley...)
-<img src = "/assets/img/blog-ASSA2024/top_30_affiliations.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/top_30_affiliations.png" width ="100%"/>
 
 So, which topics were discussed at the ASSA 2024? Based on JEL classifications for sessions, there was a lot of finance, followed by econometrics, and then specific topics (such as health, environmental, and demographic). The top 30 JEL codes are:
-<img src = "/assets/img/blog-ASSA2024/sessions_per_jel_code_name_top30.png" width ="100%"/>
+<img src = "/assets/img/blog-exploring-ASSA2024/sessions_per_jel_code_name_top30.png" width ="100%"/>
 
 The ASSA was a great opportunity to explore different topics and meet new people. My personal preferences are for smaller conferences, because you actually get the chance to attend almost everything and to greet almost everybody. Here, of course, that is impossible.
 
 Uploaded 2024–01–18; Last updated 2024–01–18
+
 [Back to top](#guiding-principles), [Previous topic](#5-exploring-my-library) 
