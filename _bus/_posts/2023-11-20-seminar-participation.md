@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seminar Participation
+date: 2023-11-20
 tags: [data analysis, personal]
 collection: bus
 ---

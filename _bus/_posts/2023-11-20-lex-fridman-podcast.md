@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Lex Fridman Podcast
+date: 2023-11-20
 tags: [data analysis]
+collection: bus
 ---
 
 I love the Lex Fridman podcast. So I did some digging. The following is based on data from YouTube.
