@@ -3,7 +3,9 @@ layout: page
 thumbnail-img: /assets/img/Schelling_1971_p169.png
 title: Segregation in Urban Areas
 tags: [published, WP]
+collection: research
 ---
+
 [PDF](https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf)
 
 ## Abstract
