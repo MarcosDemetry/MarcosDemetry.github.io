@@ -3,6 +3,7 @@ layout: page
 thumbnail-img: /assets/img/plot2_BL_actual_preferred.png
 title: Testing Axioms of Revealed Preference in Stata
 subtitle: with Per Hjertstrand and Matthew Polisson
+date: 2022-07-01
 tags: [published, article]
 collection: research
 ---

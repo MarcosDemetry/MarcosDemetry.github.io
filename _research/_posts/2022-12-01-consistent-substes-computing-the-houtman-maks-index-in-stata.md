@@ -3,6 +3,7 @@ layout: page
 thumbnail-img: /assets/img/hmindex_figure_1.png
 title: Consistent Subsets—Computing the Houtman-Maks index in Stata
 subtitle: with Per Hjertstrand
+date: 2022-12-01
 tags: [published, article]
 collection: research
 ---

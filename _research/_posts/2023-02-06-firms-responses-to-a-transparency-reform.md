@@ -2,6 +2,7 @@
 layout: page
 thumbnail-img: /assets/img/nfrd_map_big_firm_2016.png
 title: Firms' Responses to a Transparency Reform
+date: 2023-02-06
 tags: [ongoing]
 collection: research
 ---
