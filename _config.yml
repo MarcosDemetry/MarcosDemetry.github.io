@@ -17,17 +17,11 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Résumé: "resume"
-  BUS: "bus"
+  BUS: "aboutme"
 
 relative-links:
   enabled: true
   collections: false
-
-collections:
-  research:
-    output: true
-  bus:
-    output: true
 
 # --- Logo --- #
 
@@ -215,22 +209,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
-      path: "research"
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      social-share: true
-  -
-    scope:
-      path: "bus"
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      social-share: true
   -
     scope:
       path: ""

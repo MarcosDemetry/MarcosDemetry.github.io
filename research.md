@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Research
+layout: home
 use-site-title: true
-permalink: /research/
 ---
