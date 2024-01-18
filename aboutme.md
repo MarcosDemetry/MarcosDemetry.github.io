@@ -17,7 +17,7 @@ Here's what this page contains right now:
 - [Exploring the Stata Journal](#3-exploring-the-stata-journal)
 - [Exploring my Netflix](#4-exploring-my-netflix)
 - [Exploring my library](#5-exploring-my-library)
-- [Exploring ASSA 2024](#5-exploring-assa-2024)
+- [Exploring ASSA 2024](#6-exploring-assa-2024)
 
 ## 1 Seminar Participation ##
 Have you ever wondered exactly how many presentations _I_ have attended since starting my PhD?
@@ -211,23 +211,23 @@ This conference gathers around 70 associations and has poster sessions, over 180
 
 First, the biggest association represented in ASSA, as measured by count of sessions hosted by this association is the American Economic Association (AEA). The (not so close) second largest association is AFA. The figure below shows the top 20 assocations.
 
-<img src = "/assets/img/blog-assa2024/sessions_per_association_top20.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/sessions_per_association_top20.png" width ="100%"/>
 
 Each session has on average around 4 presentations.
-<img src = "/assets/img/blog-assa2024/papers_per_session.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/papers_per_session.png" width ="100%"/>
 
 These papers had on average 2.5 authors per paper. There's quite 
-<img src = "/assets/img/blog-assa2024/authors_per_paper.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/authors_per_paper.png" width ="100%"/>
 
 Some researchers were a part of the author team for several papers or presentations—and they are:
-<img src = "/assets/img/blog-assa2024/top_30_authors.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/top_30_authors.png" width ="100%"/>
 
 Researchers whose names are listed as authors to papers presented at the conference—where are they affiliated?
 The top 30 institutes represented at the conference come as no surprise. Chicago, Stanford, Columbia, the Fed, MIT and UC Berkeley are on top. (I had to count the top 6, not top 3 or top 5, to include Berkeley...)
-<img src = "/assets/img/blog-assa2024/top_30_affiliations.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/top_30_affiliations.png" width ="100%"/>
 
 So, which topics were discussed at the ASSA 2024? Based on JEL classifications for sessions, there was a lot of finance, followed by econometrics, and then specific topics (such as health, environmental, and demographic). The top 30 JEL codes are:
-<img src = "/assets/img/blog-assa2024/sessions_per_jel_code_name_top30.png" width ="100%"/>
+<img src = "/assets/img/blog-ASSA2024/sessions_per_jel_code_name_top30.png" width ="100%"/>
 
 The ASSA was a great opportunity to explore different topics and meet new people. My personal preferences are for smaller conferences, because you actually get the chance to attend almost everything and to greet almost everybody. Here, of course, that is impossible.
 
