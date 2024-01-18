@@ -17,7 +17,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Résumé: "resume"
-  BUS: "BUS"
+  BUS: "bus"
 
 relative-links:
   enabled: true
@@ -217,7 +217,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "research"
+      path: "_research"
       type: "posts"
     values:
       layout: "post"
@@ -225,7 +225,7 @@ defaults:
       social-share: true
   -
     scope:
-      path: "bus"
+      path: "_bus"
       type: "posts"
     values:
       layout: "post"
