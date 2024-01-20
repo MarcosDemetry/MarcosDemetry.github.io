@@ -43,7 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marcos.demetry@lnu.se"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: MarcosDemetry
   twitter: MarcosDemetry
   linkedin: marcos-demetry-8a3aa734
@@ -53,7 +53,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Marcos Demetry's personal website
+# rss-description: Marcos Demetry's personal website
 
 # --- General options --- #
 
@@ -233,7 +233,6 @@ defaults:
    - Gemfile.lock
    - LICENSE
    - README.md
-   - screenshot.png
    - docs/
 
  plugins:
