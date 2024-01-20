@@ -78,7 +78,7 @@ feed_show_excerpt: false
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: false
+post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "PhD, economics, segregation, Linnaeus university, research, urban economics, econ"
