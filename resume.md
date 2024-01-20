@@ -77,7 +77,7 @@ Labor strikes and other labor union action play a vital role in labor market out
 </details>
 
 ## <ins>Publications</ins>
-- Demetry, Marcos and Per Hjertstrand (2022). "Consistent Subsets: Computing the Houtman-Maks Index in Stata." <i>The Stata Journal</i>, Forthcoming.
+- Demetry, Marcos and Per Hjertstrand (2023). "Consistent Subsets: Computing the Houtman-Maks Index in Stata." <i>The Stata Journal</i>, 23(2), p.578-588.
 - Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2022). "Testing axioms of revealed preference in Stata". <i>The Stata Journal</i>, 22(2), pp.319-343.
 
 ## <ins>Working Papers</ins>
@@ -89,6 +89,7 @@ Labor strikes and other labor union action play a vital role in labor market out
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
+- 2024: ASSA (San Antonio, Texas)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
 - 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
 - 2018: Nordic Initiative for Corporate Economics, NICE (Stockholm, Sweden)
