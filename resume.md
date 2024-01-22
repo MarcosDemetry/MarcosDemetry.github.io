@@ -77,8 +77,8 @@ Labor strikes and other labor union action play a vital role in labor market out
 </details>
 
 ## <ins>Publications</ins>
-- Demetry, Marcos and Per Hjertstrand (2023). "Consistent Subsets: Computing the Houtman-Maks Index in Stata." <i>The Stata Journal</i>, 23(2), p.578-588.
-- Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2022). "Testing axioms of revealed preference in Stata". <i>The Stata Journal</i>, 22(2), pp.319-343.
+- Demetry, Marcos and Per Hjertstrand (2023). "Consistent Subsets: Computing the Houtman-Maks Index in Stata." <i>The Stata Journal</i>, 23(2), p.578-588. <a href="https://doi.org/10.1177/1536867X231175345" target="_blank">https://doi.org/10.1177/1536867X231175345</a>
+- Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2022). "Testing axioms of revealed preference in Stata". <i>The Stata Journal</i>, 22(2), pp.319-343. <a href="https://doi.org/10.1177/1536867X221106374" target="_blank">https://doi.org/10.1177/1536867X221106374</a>
 
 ## <ins>Working Papers</ins>
 - Demetry, Marcos and Per Hjertstrand (2022). <a href="https://www.ifn.se/media/gkrptprd/wp1446.pdf" target="_blank">"Consistent Subsets: Computing the Houtman-Maks Index in Stata"</a>, <i>IFN Working Paper No. 1446</i>
