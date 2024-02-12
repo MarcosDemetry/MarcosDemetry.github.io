@@ -3,6 +3,8 @@ layout: page
 title: Résumé
 ---
 
+[CV in PDF](../assets/cv/Demetry-CV-January2024.pdf)
+
 ## <ins>Current position</ins>
 - 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
     - Main supervisor: <a href="https://sites.google.com/site/hansgroenqvist/" target="_blank">Hans Grönqvist</a>
