@@ -262,7 +262,7 @@ There are some main players that provide solutions for parking payments in Swede
 
 
 As I write this, fuel prices are down to 18 SEK/L (6.5 USD/gal). This is a very decent price. For the period where I have receipts, the maximum price was 23.73 SEK/L (8.5USD/gal) and the minimum was 11.89 SEK/L (4.3 USD/gal)
-<iframe src = "/assets/img/blog-exploring-car/7_parking_expenses_by_parking_firm.html" width ="100%" height = "300"></iframe>
+<iframe src = "/assets/img/blog-exploring-car/8_E95_price_over_time.html" width ="100%" height = "300"></iframe>
 
 
 If I compare my fuel prices versus a national average, I more often than not fuel up at a price slightly lower than the national average daily price.
