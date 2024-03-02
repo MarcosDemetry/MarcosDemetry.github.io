@@ -5,7 +5,7 @@ subtitle: PhD Student in Economics at Linnaeus University
 use-site-title: true
 ---
 
-Welcome to my personal webpage! I am a PhD student interested in urban economics, segregation studies and labor economics—currently visiting UC Berkeley for the fall of 2023.
+Welcome to my personal webpage! I am a PhD student interested in urban economics, segregation studies and labor economics.
 
 Explore the website to find out about my [research](research.md), [teaching](teaching.md) and [work experience](resume.md) in academia.
 
