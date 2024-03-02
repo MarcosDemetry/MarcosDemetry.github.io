@@ -93,7 +93,16 @@ My favorite outlier is Balaji Srinivasan's episode, at an impressive 7 hours 47 
 
 <img src = "/assets/img/blog-exploring-LFP/barplot_timestamps_vs_pod_length.png" width ="100%"/>
 
-Uploaded 2023–11–20; Last updated 2023–11–20
+#### My viewership of the Lex Fridman Podcast: An update
+So, I recently accessed my YouTube watch history. This is where I primarily watch and listen to podcasts.
+I found that I have watched around 300 clips from this podcast, most of which are full episodes.
+It is also the case that I either watch an episode over multiple days, or come back to my favorite episodes every once in a while.
+<img src = "/assets/img/blog-exploring-LFP/series_lex_fridman_podcast_per_day.png" width ="100%"/>
+
+With the exception of one or two names, my most listened to episodes are where the guests are master story-tellers! Steve Keen and Richard Wolff are excellent at explaining Marxism philosophically, politically and historically. Randall Kennedy, Douglas Murray, and Glenn Loury, although quite different, have a very straight-forward way of speaking on racial issues, and do so with conviction and humility. Sean Kelly and Sam Harris had great episodes here as well, although I much prefer Kelly's educational lecturing to Harris's. Niall Ferguson, Saagar Enjeti, Robert F. Kennedy Jr., Balaji Srinivasan each educated me so much on political history, the current state of the world and on visions for the future. The overlap here is Bret Weinstein, that discusses the state of science, power and truth (he himself has had a great podcast called The Portal; check out episode #019 with Eric Weinstein. The most intense and fascinating podcast episode in the history of podcasts). Stephen Wolfram, Frank Wilczek, Nick Lane, Sara Walker and Lee Cronin on physics, biology and science in general. Finally, some people have lived intriguing lives and have lived to tell it. Chris Voss is one of them (and not listed here: Matthew Cox, Bill Ackman, Chamath Palihapitiya, Andrew Bustamente). These are all names that were unfamiliar to me before the podcast.
+<img src = "/assets/img/blog-exploring-LFP/top20_most_watched_lex_fridman_podcast_clips.png" width ="100%"/>
+
+Uploaded 2023–11–20; Last updated 2024–03–02
 
 [Back to top](#guiding-principles), [Previous topic](#1-seminar-participation) 
 
@@ -222,7 +231,7 @@ First, the biggest association represented in ASSA, as measured by count of sess
 Each session has on average around 4 presentations.
 <img src = "/assets/img/blog-exploring-ASSA2024/papers_per_session.png" width ="100%"/>
 
-These papers had on average 2.5 authors per paper. There's quite 
+These papers had on average 2.5 authors per paper. A substantial difference between the number of papers with 1–3 authors, and 4 authors (almost half as many).
 <img src = "/assets/img/blog-exploring-ASSA2024/authors_per_paper.png" width ="100%"/>
 
 Some researchers were a part of the author team for several papers or presentations—and they are:
@@ -249,7 +258,7 @@ Well, I did, and I had to find out.
 
 For a period of approximately 6 years, between 2016 and 2022 (specifically, 2 269 days), I saved all receipts related to my car. Everything from the down payment, petrol, parking to parking violation tickets, annual service and ferry boat tickets.
 
-First, a breakdown of my expenses by category. Around half of all car expenses went to paying for the actual car, followed by fuel (20%), servicing (9%), fuel (8%), and parking (6%). The rest is taxes, car washes, motor vehicle inspection and miscellaneous.
+First, a breakdown of my expenses by category. Around half of all car expenses went to paying for the actual car, followed by fuel (20%), servicing (9%), insurance (8%), and parking (6%). The rest is taxes, car washes, motor vehicle inspection and miscellaneous.
 <img src = "/assets/img/blog-exploring-car/1_expenses_by_category.png" width ="100%"/>
 
 Zooming in on the parking expenses over time, I have 433 recorded parking occations. In July of 2018 I moved back home to Stockholm and used the car much more, and it seems like my parking expenses increase a lot during summers.
