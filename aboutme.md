@@ -24,7 +24,7 @@ Here's what this page contains right now:
 Have you ever wondered exactly how many presentations _I_ have attended since starting my PhD?
 I sure have. And I've done something about it.
 
-Last updated 2023-12–09: Here are some plots for the seminars and brown bags that I have attended.
+Here are some plots for the seminars and brown bags that I have attended.
 
 In the figure below, can you spot when my exchange semester began? (Of course you can, it's a rhetorical question.)
 <img src = "/assets/img/blog-seminar-participation/Cumulative-number-of-seminars-and-brown-bags-by-Month-year.png" width ="100%"/>
@@ -57,7 +57,7 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 <sup>&dagger;</sup> How representative is my sample to the sample of all economists? Squarespace + Google Domains = True. Google Sites has a relative majority, but is that all that counts to declare victory?
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
-Uploaded 2023–11–20; Last updated 2024–12–09
+Uploaded 2023–11–20; Last updated 2024–03–24
 
 [Back to top](#guiding-principles)
 
