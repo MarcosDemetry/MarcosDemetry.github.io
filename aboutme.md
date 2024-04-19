@@ -18,7 +18,8 @@ Here's what this page contains right now:
 - [Exploring my Netflix](#4-exploring-my-netflix)
 - [Exploring my library](#5-exploring-my-library)
 - [Exploring ASSA 2024](#6-exploring-assa-2024)
-- [Exploring Car Expenses](#7-exploring-car-expenses)
+- [Exploring my car expenses](#7-exploring-my-car-expenses)
+- [Exploring my instagram](#8-exploring-my-instagram)
 
 ## 1 Seminar Participation ##
 Have you ever wondered exactly how many presentations _I_ have attended since starting my PhD?
@@ -107,7 +108,7 @@ Uploaded 2023–11–20; Last updated 2024–03–02
 [Back to top](#guiding-principles), [Previous topic](#1-seminar-participation) 
 
 
-## 3 Exploring the Stata Journal
+## 3 Exploring the Stata Journal ##
 This journal will always be special to me because it has my first peer-reviewed paper.
 As an homage, I scraped data on the article title, volume, issue, and author names.
 
@@ -143,7 +144,7 @@ Uploaded 2023–11–21; Last updated 2023–11–21
 
 [Back to top](#guiding-principles), [Previous topic](#2-exploring-the-lex-fridman-podcast) 
 
-## 4 Exploring my Netflix
+## 4 Exploring my Netflix ##
 Is there any greater sign of procras... being cultured than watching good TV?
 If I'm not listening to music (which was 55.8k minutes so far in 2023) or watching podcasts on YouTube (like the trifecta Lex Fridman, Joe Rogan, Andrew Huberman, with a little Theo Von, Whitney Cummings, Neil DeGrasse Tyson, and Sean Carroll sprinkled on top), then I have a show or movie running in the background on Netflix.
 
@@ -177,7 +178,7 @@ Uploaded 2023–12–01; Last updated 2023-12-01
 
 [Back to top](#guiding-principles), [Previous topic](#3-exploring-the-stata-journal) 
 
-## 5 Exploring my library
+## 5 Exploring my library ##
 It's no secret that I love my personal library. And it keeps expanding much faster than I can keep up (or, ehm, justify). As of 2023–12–23, I have 493 books in my bookshelves at home that are also registered in my little database. There are at least 50 or so books that I still need to register. Of the registered books,
 I've read 297 (or approximately 60%).
 
@@ -220,7 +221,7 @@ Uploaded 2023–12–21; Last updated 2023–12–21
 
 [Back to top](#guiding-principles), [Previous topic](#4-exploring-my-netflix) 
 
-## 6 Exploring ASSA 2024
+## 6 Exploring ASSA 2024 ##
 Started off this fiscal year by attending the Allied Social Science Associations' (ASSA) annual meeting. 
 This conference gathers around 70 associations and has poster sessions, over 1800 presentations, and events all concentrated in a period of three days. Coming back home from this conference, I was still overwhelmed with the sheer scale of it. So, I started exploring some data from the conference program as posted on their website (https://www.aeaweb.org/conference/2024/program)
 
@@ -251,7 +252,7 @@ Uploaded 2024–01–18; Last updated 2024–01–18
 [Back to top](#guiding-principles), [Previous topic](#5-exploring-my-library) 
 
 
-## 7 Exploring Car Expenses
+## 7 Exploring my car expenses ##
 
 Are you ever confronted with the thought of how much it _actually_ costs to own a car? 
 Well, I did, and I had to find out.
@@ -296,3 +297,49 @@ I will always, first and foremost, live my life to the fullest. If I happen to r
 Uploaded 2024–02–16; Last updated 2024–02–16
 
 [Back to top](#guiding-principles), [Previous topic](#6-exploring-assa-2024) 
+
+
+## 8 Exploring my Instagram ##
+How does my online behaviour change when as new chapters of my life start?
+
+To answer that, let's take a look at my Instagram data.
+
+I look at four aspects of online behavior—likes, comments, posts and follows-and how they change as my academic and professional life changes.
+
+#### Likes
+The number of likes follows an interesting pattern. At the end of each episode of life, I seem to like much more posts. 
+This is especially the case for finishing the bachelors and the masters studies. I attribute this to having been with a big graduating cohort
+and everyone uploading their theses, or job announcements, or other big announcements that naturally follow completing an academic degree.
+It's also telling that the increase in likes is not as pronounced at the end of my RA-ship, as it was a much smaller cohort.
+<iframe src = "/assets/img/blog-exploring-insta/liked_posts_cumsum.png" width ="100%" height = "400"></iframe>
+
+#### Comments
+Similarly, it seems I comment on other people's posts toward the end of each episode of life.
+<iframe src = "/assets/img/blog-exploring-insta/comments_cumsum.png" width ="100%" height = "400"></iframe>
+
+We could also see that the number of unique people on whose posts I comment increases greatly in the first year at uni (2013), first year of the masters (2016), first year of the PhD (2021) and my semester abroad (2023).
+<iframe src = "/assets/img/blog-exploring-insta/comments_unique_owners_year.png" width ="100%" height = "400"></iframe>
+
+#### Posting content
+Instagram "Stories" was added as a feature in August 2016. I resisted the temptation to use Stories for quite a few years, even after it took off amongst folks.
+Stories was just a fake Snapchat. Oh how times change. In any case, I "imported" some of my stories from Snapchat into a highlight reel on Instagram,
+so it looks like I had over 50 stories in just a day or two. Otherwise, I have approximately 50 stories per year.
+
+Funny enough, most of these stories are about random beautifully unnecessary statistics like this one!
+<iframe src = "/assets/img/blog-exploring-insta/stories_cumsum.png" width ="100%" height = "400"></iframe>
+
+#### Followers and following
+This doesn't have as clear trends, but it seems like I do follow new people shortly after starting a new episode of life.
+This is especially prominent when starting the masters (perhaps, the last bigger cohort I've joined since then).
+
+One way of interpreting the difference between number of followers and following is that it's a measure of... pretentiousness.
+This is in the sense that I allow myself to be followed by someone whom I do not care to follow back.
+Luckily, it seems that I was least pretentious in high school and right now (unless there's some purely mechanical reason for these convergings that I'm missing now).
+<iframe src = "/assets/img/blog-exploring-insta/followers_following_cumsum.png" width ="100%" height = "400"></iframe>
+
+So, I do interact with more people and more often on social media around my entering or leaving a new academic chapter in life.
+How is anyone any better off for having gotten this piece of information? We're not. This has been, as always, beautifully unnecessary statistics!
+
+Uploaded 2024–04–19; Last updated 2024–04–19
+
+[Back to top](#guiding-principles), [Previous topic](#7-exploring-my-car-expenses) 
