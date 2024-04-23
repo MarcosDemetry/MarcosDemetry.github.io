@@ -3,13 +3,16 @@ layout: page
 title: Teaching
 ---
 #### Introduction to Microeconomics
-Five lectures for a first-year undergraduate course, focusing on __production theory__, competitive markets and monopolies. _Linnaeus University (Spring 2023)_
+Five lectures for a first-year undergraduate course, focusing on __production theory__, competitive markets and monopolies. _Linnaeus University (2023–ongoing)_
 
 #### Advanced Microeconomics
 Two lectures and an exercise session for a master's course, focusing on __welfare__, market inefficiencies, and __behavioral__ economics with applications to environmental sustainability. _Linnaeus University (Autumn 2022)_
 
 #### Intermediate Microeconomics
 Two lectures and an exercise session for a second-year undergraduate course, focusing on externalities, public goods and __asymmetric information__. _Linnaeus University (Autumn 2022)_
+
+#### Public Policy Evaluation with Big Data
+Teaching Assistant for a second-year undergraduate course. Developed three computer labs focusing on project flow management, as well as gathering, cleaning, and visualizing data. Evaluating real, and previously unstudied, Swedish reforms together with students, as an inspiration for their term paper and future thesis. _Linnaeus University (Spring 2024)_
 
 #### Microeconomics with Applications
 Teaching Assistant for a second-year undergraduate course. My task was helping students navigate microeconomics and introducing them to game theory. The __mentoring__ took place through discussions with the students, __solving exercises on the board__, and __helping one-on-one__ in person or via e-mail. The mentorship took place __once a week__ and was three hours long. _Uppsala University (2017–18)_
