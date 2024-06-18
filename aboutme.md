@@ -58,7 +58,7 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 <sup>&dagger;</sup> How representative is my sample to the sample of all economists? Squarespace + Google Domains = True. Google Sites has a relative majority, but is that all that counts to declare victory?
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
-Uploaded 2023–11–20; Last updated 2024–03–24
+Uploaded 2023–11–20; Last updated 2024–06–18
 
 [Back to top](#guiding-principles)
 
@@ -201,7 +201,7 @@ My most owned (and read) 15 genres are, to no ones surprise, as follows:
 For some books, I have also classified subgenres.
 <img src = "/assets/img/blog-exploring-library/top20_subgenres.png" width ="100%"/>
 
-My most read author is the one and only N.N.T. Then there's _STR_ which is a Swedish association for teaching driving. One or two textbook authors made their way in there as well.
+My most read author is the one and only N.N.T. Then there's popular non-fiction writers Ariely and Gladwell. One or two textbook authors made their way in there as well.
 <img src = "/assets/img/blog-exploring-library/top20_authors.png" width ="100%"/>
 
 For most of the books that I've read, I added a rating from 1–5, with 5 being a gripping book
