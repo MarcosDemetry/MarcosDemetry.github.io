@@ -83,14 +83,14 @@ Labor strikes and other labor union action play a vital role in labor market out
 - Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2022). "Testing axioms of revealed preference in Stata". <i>The Stata Journal</i>, 22(2), pp.319-343. <a href="https://doi.org/10.1177/1536867X221106374" target="_blank">https://doi.org/10.1177/1536867X221106374</a>
 
 ## <ins>Working Papers</ins>
-- Demetry, Marcos and Per Hjertstrand (2022). <a href="https://www.ifn.se/media/gkrptprd/wp1446.pdf" target="_blank">"Consistent Subsets: Computing the Houtman-Maks Index in Stata"</a>, <i>IFN Working Paper No. 1446</i>
-- Demetry, Marcos, Per Hjertstrand and Matthew Polisson (2020). <a href="https://www.ifn.se/media/xf4bpowg/wp1342.pdf" target="_blank">"Testing Axioms of Revealed Preference in Stata"</a>, <i>IFN Working Paper No. 1342</i>
+
 - Demetry, Marcos (2017). <a href="https://cms.ratio.se/app/uploads/2017/12/md_segregation_in_urban_areas_304.pdf" target="_blank">"Segregation in Urban Areas: A literature review"</a>, <i>Ratio Working Paper No. 304</i>
 
 
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
+- (Upcoming): EALE Conference (Bergen, Norway), Diversity in the Labor Market Workshop (Borås, Sweden), SWEGPEC Workshop (Växjö, Sweden),
 - 2024: ASSA (San Antonio, Texas)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
 - 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
