@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 
-[CV in PDF](../assets/cv/Demetry-CV-August2024.pdf)
+[CV in PDF](../assets/cv/Demetry-CV-September2024.pdf)
 
 ## <ins>Current position</ins>
 - 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
@@ -90,14 +90,14 @@ Labor strikes and other labor union action play a vital role in labor market out
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
-- (Upcoming): EALE Conference (Bergen, Norway), Diversity in the Labor Market Workshop (Borås, Sweden), SWEGPEC Workshop (Växjö, Sweden),
-- 2024: ASSA (San Antonio, Texas)
+- (Upcoming): SWEGPEC Workshop (Växjö, Sweden),
+- 2024: ASSA (San Antonio, Texas), EALE Conference (Bergen, Norway)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
 - 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
 - 2018: Nordic Initiative for Corporate Economics, NICE (Stockholm, Sweden)
 
 ## <ins>Grants</ins>
-- Hedelius Scholarship for 360,000 SEK (from Jan Wallander och Tom Hedelius stiftelse)
+- Hedelius Scholarship for ~35,000 USD (from Jan Wallander och Tom Hedelius stiftelse)
 
 ## <ins> Non-Academic Work Experience</ins>
 As important as it is to showcase experience from academia, it is equally important to highlight real-world experience. My previous non-academic work experience includes: waiting tables at cafés, telemarketer, busboy at a restaurant, Youth Leader at St Mary and St Paul Coptic Orthodox Church, as well as the occasional English/Math tutoring at public libraries or privately.
