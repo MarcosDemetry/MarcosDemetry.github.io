@@ -27,7 +27,7 @@ I sure have. And I've done something about it.
 
 Here are some plots for the seminars and brown bags that I have attended.
 
-In the figure below, can you spot when my exchange semester began? (Of course you can, it's a rhetorical question.)
+In the figure below, can you spot when my exchange semester began?
 <img src = "/assets/img/blog-seminar-participation/Cumulative-number-of-seminars-and-brown-bags-by-Month-year.png" width ="100%"/>
 
 Breaking down my attendance by fiscal and academic year, respectively, gives the following.
@@ -58,7 +58,7 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 <sup>&dagger;</sup> How representative is my sample to the sample of all economists? Squarespace + Google Domains = True. Google Sites has a relative majority, but is that all that counts to declare victory?
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
-Uploaded 2023–11–20; Last updated 2024–06–18
+Uploaded 2023–11–20; Last updated 2024–10-09
 
 [Back to top](#guiding-principles)
 
