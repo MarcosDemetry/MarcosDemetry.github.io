@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 
-[CV in PDF](../assets/cv/Demetry-CV-September2024.pdf)
+[CV in PDF](../assets/cv/Demetry-CV-202410.pdf)
 
 ## <ins>Current position</ins>
 - 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
