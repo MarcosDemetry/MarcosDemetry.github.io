@@ -90,8 +90,8 @@ Labor strikes and other labor union action play a vital role in labor market out
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
-- (Upcoming): SWEGPEC Workshop (Växjö, Sweden),
-- 2024: ASSA (San Antonio, Texas), EALE Conference (Bergen, Norway)
+- Upcoming: National Research Program on Criminal Justice (Stockholm, Sweden)
+- 2024: ASSA (San Antonio, Texas), EALE Conference (Bergen, Norway), SWEGPEC Workshop (Växjö, Sweden), 8th Swedish Conference in Economics (Lund, Sweden)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
 - 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
 - 2018: Nordic Initiative for Corporate Economics, NICE (Stockholm, Sweden)
