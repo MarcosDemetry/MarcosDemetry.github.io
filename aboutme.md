@@ -58,7 +58,7 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 <sup>&dagger;</sup> How representative is my sample to the sample of all economists? Squarespace + Google Domains = True. Google Sites has a relative majority, but is that all that counts to declare victory?
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
-Uploaded 2023–11–20; Last updated 2024–10-09
+Uploaded 2023–11–20; Last updated 2024–11-25
 
 [Back to top](#guiding-principles)
 
