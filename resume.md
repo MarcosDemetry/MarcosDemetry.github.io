@@ -7,8 +7,8 @@ title: Résumé
 
 ## <ins>Current position</ins>
 - 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
-    - Main supervisor: <a href="https://sites.google.com/site/hansgroenqvist/" target="_blank">Hans Grönqvist</a>
-    - Co-supervisor: <a href="https://sites.google.com/site/erikprawitz/" target="_blank">Erik Prawitz</a>
+    - Main supervisor: <a href="https://sites.google.com/site/erikprawitz/" target="_blank">Erik Prawitz</a>
+    - Co-supervisor: <a href="https://sites.google.com/site/hansgroenqvist/" target="_blank">Hans Grönqvist</a>
 - 2021–Currently: Affiliated doctoral student at the Research Institute of Industrial Economics, IFN (Stockholm, Sweden)
 
 ## <ins>Education</ins>
