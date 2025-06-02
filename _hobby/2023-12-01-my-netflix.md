@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/blog-exploring-SJ/top_authors.png
+thumbnail-img: /assets/img/blog-exploring-Netflix/top_10_viewing_activity.png
 title: My Netflix
 tags: [data, personal]
 ---
