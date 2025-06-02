@@ -2,9 +2,10 @@
 layout: page
 thumbnail-img: /assets/img/hobby-exploring-insta/followers_following_cumsum.png
 title: Social Media and Phases of Life
+subtitle: Instagram uploads, interactions and followership over time. 
 tags: [data, personal]
 ---
-How does my online behaviour change when as new chapters of my life start?
+How does my online behaviour change as new chapters of my life start?
 
 To answer that, let's take a look at my Instagram data.
 

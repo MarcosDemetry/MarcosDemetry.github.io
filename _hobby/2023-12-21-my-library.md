@@ -2,6 +2,7 @@
 layout: page
 thumbnail-img: /assets/img/hobby-exploring-library/top20_subgenres.png
 title: Books and Bookshelves
+subtitle: A glimpse into my personal library and my favorite genres
 tags: [data, personal, books]
 ---
 
@@ -27,7 +28,7 @@ My most owned (and read) 15 genres are, to no ones surprise, as follows:
 For some books, I have also classified subgenres.
 <img src = "/assets/img/hobby-exploring-library/top20_subgenres.png" width ="100%"/>
 
-My most read author is the one and only N.N.T. Then there's popular non-fiction writers Ariely and Gladwell. One or two textbook authors made their way in there as well.
+My most read author is the one and only N.N.T. Then there's popular non-fiction writers like Gladwell. One or two textbook authors made their way in there as well.
 <img src = "/assets/img/hobby-exploring-library/top20_authors.png" width ="100%"/>
 
 For most of the books that I've read, I added a rating from 1–5, with 5 being a gripping book

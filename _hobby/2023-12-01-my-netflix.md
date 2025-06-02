@@ -2,11 +2,12 @@
 layout: page
 thumbnail-img: /assets/img/hobby-exploring-Netflix/top_10_viewing_activity.png
 title: My Netflix
+subtitle: My viewership of movies and TV series analyzed and IMDB rated
 tags: [data, personal]
 ---
 
 Is there any greater sign of procras... being cultured than watching good TV?
-If I'm not listening to music (which was 55.8k minutes so far in 2023) or watching podcasts on YouTube (like the trifecta Lex Fridman, Joe Rogan, Andrew Huberman, with a little Theo Von, Whitney Cummings, Neil DeGrasse Tyson, and Sean Carroll sprinkled on top), then I have a show or movie running in the background on Netflix.
+If I'm not listening to music (which was 55.8k minutes so far in 2023) or watching podcasts on YouTube (like Lex Fridman and Joe Rogan, with a little Theo Von, Neil DeGrasse Tyson, and Sean Carroll sprinkled on top), then I have a show or movie running in the background on Netflix.
 
 In an attempt to make this truly beautifully unnecessary statistics, I give you a summary of my Netflix viewing activity.
 

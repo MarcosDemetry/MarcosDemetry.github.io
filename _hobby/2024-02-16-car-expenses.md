@@ -2,6 +2,7 @@
 layout: page
 thumbnail-img: /assets/img/hobby-exploring-car/1_expenses_by_category.png
 title: The Cost of a Car
+subtitle: Breakdown of costs based on receipts from 2,269 days of owning a car.
 tags: [data, personal]
 ---
 

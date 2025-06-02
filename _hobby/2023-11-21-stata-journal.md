@@ -2,6 +2,7 @@
 layout: page
 thumbnail-img: /assets/img/hobby-exploring-SJ/keywords_occurances.png
 title: The Stata Journal
+subtitle: Production volumes, co-authorships and topics of the SJ
 tags: [data, public]
 ---
 
