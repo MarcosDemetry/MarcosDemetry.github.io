@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hobby
+title: ""
 page_type: hobby
 ---
 
