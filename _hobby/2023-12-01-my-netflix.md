@@ -34,4 +34,6 @@ information on genres, ratings and release years.
 One day, I may take these BUS seriously. Today is not that day.
 In the words of Maximus Decimus Meridius, "Are you not entertained? Is this not why you are here?"
 
-Uploaded 2023–12–01; Last updated 2023-12-01
+Uploaded 2023–12–01; Last updated 2023-12-
+
+<a href="/hobby">Back to Hobby</a>

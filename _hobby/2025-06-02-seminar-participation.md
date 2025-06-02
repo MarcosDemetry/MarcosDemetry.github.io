@@ -42,3 +42,5 @@ I don't have a definitive answer, but use this figure to argue about it at the p
 I will start campaigning to get people with no personal websites to create a Github Pages.
 
 Uploaded 2023–11–20; Last updated 2025–06-02
+
+<a href="/hobby">Back to Hobby</a>

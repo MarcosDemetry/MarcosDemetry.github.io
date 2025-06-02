@@ -44,3 +44,5 @@ As usual, I love exploring my life with data! And it is beautifully flawed, skew
 One day, I'll merge all my datasets capturing different aspects of life on date, and it will be absolutely marvelous. Until then, take care and see you on the next BUS!
 
 Uploaded 2023–12–21; Last updated 2023–12–21
+
+<a href="/hobby">Back to Hobby</a>

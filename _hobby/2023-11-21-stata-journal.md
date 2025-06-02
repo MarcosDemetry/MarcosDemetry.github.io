@@ -37,3 +37,5 @@ economics/econometrics cluster (yellow, bottom-left).
 <img src = "/assets/img/blog-exploring-SJ/terms_occurances.png" width ="100%"/>
 
 Uploaded 2023–11–21; Last updated 2023–11–21
+
+<a href="/hobby">Back to Hobby</a>
