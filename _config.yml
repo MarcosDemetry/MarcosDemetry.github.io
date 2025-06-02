@@ -14,14 +14,17 @@ author: Marcos Demetry
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "research"
+  Research: "articles"
   Teaching: "teaching"
   Résumé: "resume"
   BUS: "aboutme"
 
 relative-links:
-  enabled: true
-  collections: false
+ enabled: true
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name/
 
 # --- Logo --- #
 
