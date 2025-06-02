@@ -22,7 +22,7 @@ navbar-links:
 relative-links:
  enabled: true
 collections:
-  articles:
+  research:
     output: true
     permalink: /:collection/:name/
 
