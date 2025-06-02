@@ -3,8 +3,7 @@ layout: page
 ---
 
 {{ content }}
-
-{% if page.type == "hobby" %}
+{% if page.page_type == "hobby" %}
   {% assign posts = paginator.posts | default: site.hobby | sort: 'date' | reverse %}
 {% else %}
   {% assign posts = paginator.posts | default: site.research | sort: 'date' | reverse %}
