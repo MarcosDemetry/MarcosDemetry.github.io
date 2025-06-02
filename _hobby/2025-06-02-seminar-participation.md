@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-per-host-institution-pie-chart
+thumbnail-img: /assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-per-host-institution-pie-chart.png
 title: Research Seminars
 tags: [data, personal]
 ---
