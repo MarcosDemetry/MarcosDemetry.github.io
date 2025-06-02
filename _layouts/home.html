@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% if page.title == "Beautifully Unnecessary Statistics (BUS)" %}
+{% if page.type == "hobby" %}
   {% assign posts = paginator.posts | default: site.hobby | sort: 'date' | reverse %}
 {% else %}
   {% assign posts = paginator.posts | default: site.research | sort: 'date' | reverse %}
