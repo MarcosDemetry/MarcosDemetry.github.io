@@ -4,7 +4,11 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.research | sort: 'date' | reverse %}
+{% if page.title == "Beautifully Unnecessary Statistics (BUS)" %}
+  {% assign posts = paginator.posts | default: site.hobby | sort: 'date' | reverse %}
+{% else %}
+  {% assign posts = paginator.posts | default: site.research | sort: 'date' | reverse %}
+{% endif %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">

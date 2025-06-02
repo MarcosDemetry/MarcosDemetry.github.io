@@ -17,12 +17,15 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Résumé: "resume"
-  BUS: "aboutme"
+  BUS: "hobby"
 
 relative-links:
  enabled: true
 collections:
   research:
+    output: true
+    permalink: /:collection/:name/
+  hobby:
     output: true
     permalink: /:collection/:name/
 
