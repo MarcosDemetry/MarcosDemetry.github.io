@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/blog-exploring-SJ/top_authors.png
+thumbnail-img: /assets/img/blog-exploring-SJ/keywords_occurances.png
 title: The Stata Journal
 tags: [data, public]
 ---
