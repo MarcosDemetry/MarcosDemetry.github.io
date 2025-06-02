@@ -39,7 +39,7 @@ Some fun stats: Here's the breakdown of the percentage of time spent on projects
 </p>
 
 <div>
-  <img class="marginauto" src="/assets/img/time_spent_coding.png" alt="Pie chart of time spent on different coding languages or software" />
+  <img class="marginauto" src="/assets/img/resume-imgs/time_spent_coding.png" alt="Pie chart of time spent on different coding languages or software" />
 </div>
 </details>
 

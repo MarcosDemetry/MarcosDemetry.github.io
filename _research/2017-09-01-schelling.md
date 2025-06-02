@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/Schelling_1971_p169.png
+thumbnail-img: /assets/img/research-schelling/Schelling_1971_p169.png
 title: Segregation in Urban Areas
 tags: [published, WP]
 ---
