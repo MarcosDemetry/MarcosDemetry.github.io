@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/blog-exploring-Netflix/top_10_viewing_activity.png
+thumbnail-img: /assets/img/blog-exploring-car/1_expenses_by_category.png
 title: The Cost of a Car
 tags: [data, personal]
 ---
