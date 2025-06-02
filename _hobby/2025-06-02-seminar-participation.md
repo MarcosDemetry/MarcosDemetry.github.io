@@ -2,6 +2,7 @@
 layout: page
 thumbnail-img: /assets/img/blog-seminar-participation/Total-number-of-seminars-and-brown-bags-per-host-institution-pie-chart.png
 title: Research Seminars
+subtitle: Overview of research seminars I've attended and presented at. Answers which is most popular, Google Sites or Github Pages
 tags: [data, personal]
 ---
 
