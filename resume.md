@@ -90,6 +90,7 @@ Labor strikes and other labor union action play a vital role in labor market out
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
+Upcoming: NBER Summer Institute Crime (Boston)
 - 2025: Nordic Economics Workshop for Early-Career Researchers NEWER (Umeå, Sweden)
 - 2024: ASSA (San Antonio, Texas), EALE Conference (Bergen, Norway), SWEGPEC Workshop (Växjö, Sweden), 8th Swedish Conference in Economics (Lund, Sweden)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
