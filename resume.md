@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 
-[CV in PDF](../assets/cv/Demetry-CV-202508.pdf)
+[CV in PDF](../assets/cv/Demetry-CV-202511.pdf)
 
 ## <ins>Current position</ins>
 - 2021–Currently: Phd Student at Linnaeus University, Department of Economics and Statistics (Växjö, Sweden)
@@ -90,8 +90,7 @@ Labor strikes and other labor union action play a vital role in labor market out
 [See research details here](research.md)
 
 ## <ins>Conferences</ins>
-Upcoming: NBER Summer Institute Crime (Boston)
-- 2025: Nordic Economics Workshop for Early-Career Researchers NEWER (Umeå, Sweden)
+- 2025: NBER Summer Institute Crime (Boston), Nordic Economics Workshop for Early-Career Researchers NEWER (Umeå, Sweden)
 - 2024: ASSA (San Antonio, Texas), EALE Conference (Bergen, Norway), SWEGPEC Workshop (Växjö, Sweden), 8th Swedish Conference in Economics (Lund, Sweden)
 - 2022: European Association of Labor Economics, EALE Conference (Padua, Italy), SWEGPEC Workshop (Linköping, Sweden)
 - 2021: Diversity in the Labor Market Workshop (Vadstena, Sweden), SWEGPEC Workshop (Jönköping, Sweden)
