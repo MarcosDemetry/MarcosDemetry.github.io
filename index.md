@@ -7,7 +7,7 @@ show-avatar: false
 ---
 
 <div class="row align-items-center">
-  <div class="col-md-4 text-center mb-4 mb-md-0">
+  <div class="col-md-4 text-center mb-4 mb-md-0 pr-md-4">
     <img src="/assets/img/Marcos-Demetry-2023-Square.jpeg" alt="Marcos Demetry" class="img-fluid rounded" style="max-width: 250px;">
   </div>
   <div class="col-md-8">
