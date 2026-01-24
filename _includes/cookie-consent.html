@@ -1,0 +1,214 @@
+{% if site.gtag %}
+<!-- Cookie Consent Banner -->
+<div id="cookie-consent-banner" style="display: none;">
+  <div class="cookie-consent-content">
+    <div class="cookie-consent-text">
+      <p><strong>Hey you!</strong> I'm hungry for a cookie. Just one small analytics cookie to see where visitors come from and which pages they like. But I get it if you'd rather not feed me.</p>
+    </div>
+    <div class="cookie-consent-buttons">
+      <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Feed the cookie monster</button>
+      <button id="cookie-decline" class="cookie-btn cookie-btn-decline">No thanks</button>
+    </div>
+  </div>
+</div>
+
+<style>
+#cookie-consent-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  padding: 1rem;
+  z-index: 999998;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+}
+
+.cookie-consent-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.cookie-consent-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.cookie-consent-text p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.cookie-consent-buttons {
+  display: flex;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.cookie-btn {
+  padding: 0.6rem 1.25rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.cookie-btn:hover {
+  transform: translateY(-1px);
+}
+
+.cookie-btn:active {
+  transform: translateY(0);
+}
+
+.cookie-btn-accept {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.cookie-btn-accept:hover {
+  background-color: #2980b9;
+}
+
+.cookie-btn-decline {
+  background-color: transparent;
+  color: #bdc3c7;
+  border: 1px solid #7f8c8d;
+}
+
+.cookie-btn-decline:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ecf0f1;
+}
+
+@media (max-width: 600px) {
+  #cookie-consent-banner {
+    padding: 0.875rem;
+  }
+
+  .cookie-consent-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .cookie-consent-buttons {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .cookie-btn {
+    flex: 1;
+    max-width: 180px;
+  }
+}
+</style>
+
+<script>
+(function() {
+  'use strict';
+
+  var CONSENT_KEY = 'cookie_consent_analytics';
+  var CONSENT_ACCEPTED = 'accepted';
+  var CONSENT_DECLINED = 'declined';
+  var GA_ID = '{{ site.gtag }}';
+
+  function storageAvailable() {
+    try {
+      var test = '__storage_test__';
+      localStorage.setItem(test, test);
+      localStorage.removeItem(test);
+      return true;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function getConsent() {
+    if (!storageAvailable()) return null;
+    return localStorage.getItem(CONSENT_KEY);
+  }
+
+  function setConsent(status) {
+    if (storageAvailable()) {
+      localStorage.setItem(CONSENT_KEY, status);
+    }
+  }
+
+  function loadGoogleAnalytics() {
+    if (window.gaLoaded) return;
+    window.gaLoaded = true;
+
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    window.gtag = gtag;
+
+    gtag('js', new Date());
+    gtag('config', GA_ID, {
+      'anonymize_ip': true,
+      'allow_google_signals': false,
+      'allow_ad_personalization_signals': false
+    });
+  }
+
+  function showBanner() {
+    var banner = document.getElementById('cookie-consent-banner');
+    if (banner) banner.style.display = 'block';
+  }
+
+  function hideBanner() {
+    var banner = document.getElementById('cookie-consent-banner');
+    if (banner) banner.style.display = 'none';
+  }
+
+  function handleAccept() {
+    setConsent(CONSENT_ACCEPTED);
+    hideBanner();
+    loadGoogleAnalytics();
+  }
+
+  function handleDecline() {
+    setConsent(CONSENT_DECLINED);
+    hideBanner();
+  }
+
+  function init() {
+    var consent = getConsent();
+
+    if (consent === CONSENT_ACCEPTED) {
+      loadGoogleAnalytics();
+    } else if (consent === CONSENT_DECLINED) {
+      // Do nothing
+    } else {
+      showBanner();
+    }
+
+    var acceptBtn = document.getElementById('cookie-accept');
+    var declineBtn = document.getElementById('cookie-decline');
+
+    if (acceptBtn) acceptBtn.addEventListener('click', handleAccept);
+    if (declineBtn) declineBtn.addEventListener('click', handleDecline);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+{% endif %}
