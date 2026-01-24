@@ -3,7 +3,7 @@
 <div id="cookie-consent-banner" style="display: none;">
   <div class="cookie-consent-content">
     <div class="cookie-consent-text">
-      <p><strong>Hey you!</strong> I'm hungry for a cookie. Just one small analytics cookie to see where visitors come from and which pages they like. But I get it if you'd rather not feed me.</p>
+      <p><strong>Hey you!</strong> I'm hungry for a cookie. Just one small analytics cookie to see where visitors come from and which pages they like. But I get it if you'd rather not feed me. /Marcos</p>
     </div>
     <div class="cookie-consent-buttons">
       <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Feed the cookie monster</button>
@@ -175,9 +175,34 @@
     if (banner) banner.style.display = 'none';
   }
 
+  var thankYouMessages = [
+    "You're awesome! Here's a virtual high-five! 🙌",
+    "Thanks! You just made a data nerd very happy 📊",
+    "Cookie monster is satisfied! Om nom nom 🍪",
+    "You rock! Now I can pretend I have fans worldwide 🌍",
+    "Yay! Time to obsess over page view charts 📈"
+  ];
+
+  function showThankYou() {
+    var banner = document.getElementById('cookie-consent-banner');
+    var content = banner.querySelector('.cookie-consent-content');
+    var randomMsg = thankYouMessages[Math.floor(Math.random() * thankYouMessages.length)];
+
+    content.innerHTML = '<p style="text-align:center;width:100%;font-size:1.1rem;padding:0.5rem 0;">' + randomMsg + '</p>';
+
+    setTimeout(function() {
+      banner.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+      banner.style.opacity = '0';
+      banner.style.transform = 'translateY(100%)';
+      setTimeout(function() {
+        banner.style.display = 'none';
+      }, 500);
+    }, 2000);
+  }
+
   function handleAccept() {
     setConsent(CONSENT_ACCEPTED);
-    hideBanner();
+    showThankYou();
     loadGoogleAnalytics();
   }
 
