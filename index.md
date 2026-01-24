@@ -3,11 +3,12 @@ layout: page
 title: Marcos Demetry
 subtitle: PhD Student in Economics at Linnaeus University
 use-site-title: true
+show-avatar: false
 ---
 
 <div class="row align-items-center">
   <div class="col-md-4 text-center mb-4 mb-md-0">
-    <img src="/assets/img/Marcos-Demetry-2023-Square.jpeg" alt="Marcos Demetry" class="img-fluid rounded-circle" style="max-width: 250px;">
+    <img src="/assets/img/Marcos-Demetry-2023-Square.jpeg" alt="Marcos Demetry" class="img-fluid rounded" style="max-width: 250px;">
   </div>
   <div class="col-md-8">
     <p>Welcome to my personal webpage! I am a PhD student interested in urban economics, segregation studies and labor economics.</p>
