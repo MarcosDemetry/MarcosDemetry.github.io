@@ -30,7 +30,7 @@ Wandered away from the poster and need a quick refresher?
 Schools that close entirely are dropped from the estimation sample, so the estimated effects are a *lower bound*.
 - **Main Contribution** Studying the effects of school shooting explicitely on between-school socioeconomic segregation
 
-[**Download the working paper (PDF)**](/assets/articles/Demetry-school-shootings-2026-04-01.pdf)
+[**Download the working paper (PDF)**](/assets/articles/Demetry-school-shootings.pdf)
 
 ---
 
@@ -218,7 +218,7 @@ If you'd like to discuss the paper, share related findings, or just say hello, l
 
 I'm broadly interested in **urban economics and segregation** (what drives the sorting of people across neighborhoods and schools?) and **crime economics** (how does exposure to crime shape economic decisions and outcomes?). School shootings sit at the intersection: they are a form of crime exposure that directly affects one of the most consequential economic decisions a family makes — where to educate their children.
 
-[**Download the working paper (PDF)**](/assets/articles/Demetry-school-shootings-2026-04-01.pdf)
+[**Download the working paper (PDF)**](/assets/articles/Demetry-school-shootings.pdf)
 
 ---
 
