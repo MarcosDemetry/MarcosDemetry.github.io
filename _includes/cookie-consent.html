@@ -159,7 +159,6 @@
 
     gtag('js', new Date());
     gtag('config', GA_ID, {
-      'anonymize_ip': true,
       'allow_google_signals': false,
       'allow_ad_personalization_signals': false
     });
@@ -208,17 +207,20 @@
 
   function handleDecline() {
     setConsent(CONSENT_DECLINED);
+    if (window.gtag) {
+      gtag('consent', 'update', { 'analytics_storage': 'denied' });
+    }
     hideBanner();
   }
 
   function init() {
     var consent = getConsent();
 
-    if (consent === CONSENT_ACCEPTED) {
+    if (consent !== CONSENT_DECLINED) {
       loadGoogleAnalytics();
-    } else if (consent === CONSENT_DECLINED) {
-      // Do nothing
-    } else {
+    }
+
+    if (!consent) {
       showBanner();
     }
 

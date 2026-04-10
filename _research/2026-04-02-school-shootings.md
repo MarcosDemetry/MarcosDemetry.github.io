@@ -225,4 +225,6 @@ I'm broadly interested in **urban economics and segregation** (what drives the s
 
 ---
 
+<a href="/assets/articles/Demetry-school-shootings.pdf" onclick="if(window.gtag) gtag('event', 'file_download', {file_name: 'Demetry-school-shootings.pdf', file_extension: 'pdf', link_text: 'Full working draft available here'});">Full working draft available here</a>
+
 <a href="/research">Back to Research</a>
