@@ -50,6 +50,13 @@ The figure below illustrates this for Marjory Stoneman Douglas High School in Pa
 
 <img src="/assets/img/research-school-shootings/treatment_buffer_parkland.png" alt="Treatment buffer illustration: Marjory Stoneman Douglas H.S., Parkland FL, 2018" width="100%"/>
 
+
+<details>
+  <summary>Interactive Map</summary>
+  <iframe src="/assets/img/research-school-shootings/treatment_buffers_20180214FLMAP_interactive.html" width="100%" height="500px" style="border:none;"></iframe>
+</details>
+
+
 The gruesome mass shooting at the Marjory Stoneman Douglas High School (serving grades 9--12) occurred in proximity to the Westglades Middle School (serving grades 6--8).
 The perpetrator of this shooting was himself enrolled in this nearby middle school in the years prior to carrying out this attack.
 In the figure above, a map with increasing radius of treatment assignment shows that students of this middle school would not have been considered treated had the spatial join only captured school units using a merge on name or a spatial merge of within 250meters of a school shooting.
