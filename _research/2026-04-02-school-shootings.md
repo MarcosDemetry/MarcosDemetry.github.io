@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: /assets/img/research-school-shootings/Demetry-school-shootings-SOLE-JOLE-2026-04-07-1318.pdf
+thumbnail-img: /assets/img/research-school-shootings/Demetry-school-shootings-SOLE-JOLE-2026-04-12-afternoon.pdf
 title: "Flight from Fights: School Shootings, Mobility and Neighborhood Sorting"
 tags: [ongoing]
 ---
@@ -12,7 +12,7 @@ Contents in this page:
 - [The Landscape of School Shootings](#2-the-landscape-of-school-shootings)
 - [Main Result: Enrollment Drops](#3-main-result-enrollment-drops)
 - [Who Leaves? Composition Effects](#4-who-leaves-composition-effects)
-- [Between-School Segregation Rises](#5-between-school-segregation-rises)
+- [Between-County Segregation Rises](#5-between-county-segregation-rises)
 - [Heterogeneity Analyses](#6-heterogeneity-analyses)
 - [Robustness Checks](#7-robustness-checks)
 - [Let's Stay in Touch!](#8-lets-stay-in-touch)
@@ -23,12 +23,12 @@ Contents in this page:
 
 Wandered away from the poster and need a quick refresher?
 
-- **What's this about?** I study how school shootings affect total enrollment, and whether it is the socioeconomically better-off students that exit the affected schools and sort into neighboring schools with other well-off students leading to greater between-school socioeconomic segregation.
+- **What's this about?** I study how school shootings affect total enrollment, and whether it is the socioeconomically better-off families that exit the affected schools and relocate to wealthier neighborhoods, leading to greater socioeconomic segregation at the county level.
 - **How did I estimate this?** I use a staggered Difference-in-Differences design, exploiting the exogenous timing of ~2,300 school shootings across the United States between 1990 and 2022. Schools within 500 meters of a shooting serve as the treated group; never- and not-yet-treated schools are the control group. I use the [Callaway and Sant'Anna (2021)](https://doi.org/10.1016/j.jeconometrics.2020.12.001) estimator to obtain group-time average treatment effects robust to treatment effect heterogeneity.
-- **What did I find?** School shootings reduce enrollment by an average of **4%** or about 25 students in a typical shooting school. Fatal shootings eventually shrink schools by **10%**. Non-poor families exit faster than poor ones, and between-school socioeconomic segregation persistently increases within affected districts.
+- **What did I find?** School shootings reduce enrollment by an average of **4%** or about 25 students in a typical shooting school. Fatal shootings eventually shrink schools by **10%**. Non-poor families exit faster than poor ones. There is no detectable change in between-school or between-district segregation, but between-county socioeconomic segregation increases significantly, with effects building gradually. This is consistent with residential relocation across county lines rather than school-switching within a district.
 - **Do I trust these results?** Yes. Effects are stable across treatment radii from 250m to 5km, robust to alternative estimators, and pass a randomization-inference placebo test.
 Schools that close entirely are dropped from the estimation sample, so the estimated effects are a *lower bound*.
-- **Main Contribution** Studying the effects of school shooting explicitely on between-school socioeconomic segregation
+- **Main Contribution**  Studying the effects of school shootings, using both fatal and non-fatal shootings, on socioeconomic segregation
 
 ---
 
@@ -103,18 +103,27 @@ This divergence between the two groups is informative. Free lunch recipients are
 
 ---
 
-## 5. Between-School Segregation Rises ##
+## 5. Between-County Segregation Rises ##
 
-If non-poor families leave shooting schools and re-enroll their children at other schools within the same district, we would expect between-school socioeconomic segregation to increase. That is exactly what I find.
+Do non-poor families simply switch schools within the same district or do they move further away? The answer matters: it tells us whether this is a story about school choice or about residential relocation.
 
-<img src="/assets/img/research-school-shootings/segregation_exposure_index.png" alt="Effect on between-school exposure index (free lunch vs. non-free lunch)" width="100%"/>
+I estimate the same staggered Difference-in-Differences on socioeconomic segregation at **four geographic scales**: between schools within a district, between geographic districts within a county, between administrative districts within a county, and between counties within a state. The outcome at each scale is the **Normalized Exposure Index** for Free Lunch vs. Non-Free Lunch recipients. This measure adjusts for changes in the overall share of Free Lunch recipients, so it captures pure distributional sorting rather than mechanical compositional shifts.
 
-The outcome here is a **between-school exposure index** measuring the probability that a randomly chosen schoolmate of a free-lunch student is also a free-lunch student where higher values indicate more sorting. After a shooting, the index rises modestly but persistently, consistent with non-poor families sorting into other (higher-status) schools elsewhere in the district.
+<img src="/assets/img/research-school-shootings/seg_normalized_overall_att.png" alt="Overall ATT on normalized exposure index by geographic scale" width="100%"/>
 
-The effect is not large in absolute terms but is meaningful in the context of an already-stratified U.S. public school system. And because shootings are frequent and cumulative, the aggregate effect on district-level segregation may be substantial. 
-Segregation is a multifaceted phenomenon, and one would need to investigate changes in peer-group composition *within-school* as well as between-districts and between-counties. Ideally, we would have data to identify which students attend which grade and classroom, and follow their mobility across schools regardless of where they end up.
+There is **no detectable effect** on between-school or between-district segregation once compositional change is accounted for. The action is at a larger scale: **between-county (within-state) segregation increases significantly**, with an overall ATT of approximately 0.022 index points.
 
-A further complication is that I can only observe public school data, to the extent that students leave the public school system entirely, we may see drops in enrollment that are not accompanied by any sorting *within the public school system*.
+<details>
+  <summary>Dynamic treatment effects on segregation by geographic level</summary>
+  <img src="/assets/img/research-school-shootings/seg_normalized_dynamic.png" alt="Event-study by geographic level" width="100%"/>
+  <p>The event-study reveals that the between-county effect is not immediate. It emerges gradually from around three years post-shooting and continues to grow over the observed horizon. This is in line with residential relocation rather than school switching. Pre-period estimates are flat across all scales, supporting parallel trends. The between-school and between-district series are precise nulls throughout, ruling out school-switching within a district as the primary mechanism.</p>
+</details>
+
+**What does this mean?** Families who leave are not simply enrolling their children in a different school across town. They are crossing county lines. This is residential flight, not simply school choice.
+
+The effect is not large in absolute terms, but it is persistent, county-wide, and accumulates with each additional shooting. Because shootings are frequent and cumulative across U.S. counties, the aggregate contribution to between-county socioeconomic segregation may be substantial.
+
+A further complication is that I can only observe public school data. To the extent that families leave the public school system entirely, we may see enrollment drops that are not accompanied by any detectable sorting *within* the public school system, meaning the true segregation effect could be even larger.
 
 ---
 
@@ -142,7 +151,7 @@ Permitting students to switch schools within the same school district results in
   <img src="/assets/img/research-school-shootings/het_interdistrict_oe.png" alt="Event-study by between-district open enrollment" width="100%"/>
 </details>
 
-**Policy implication:** There is a genuine **trade-off between school choice and integration**. Open enrollment policies expand educational opportunity for families who can act on them, but they also allow non-poor families to exit schools hit by violence faster and more completely, leaving behind a poorer, more segregated student body.
+**Policy implication:** Open enrollment policies expand educational opportunity for families who can act on them, but they also allow non-poor families to exit schools hit by violence faster and more completely, leaving behind a **poorer student body**. The segregation response, however, operates at the county level rather than the school level suggesting that the deeper inequality mechanism is residential relocation, which open enrollment policies alone cannot address.
 
 ### Background County Violence: The "Last Straw" ###
 
@@ -208,8 +217,8 @@ This matters for interpretation: the enrollment estimates are computed only on s
 
 * School shootings affect **total enrollment negatively**
 * A greater share of **remaining students** at the affected school are **poorer** students
-* Following this outflow of non-poor students, I find an **increase in socioeconomic segregation** between schools within the affected district
-* This presents a **trade-off** between increased **school choice** and **socioeconomic diversity** and integration at schools
+* There is **no detectable effect** on between-school or between-district segregation, but **between-county segregation rises** significantly and builds gradually over three or more years post-shooting
+* This points to **residential relocation across county lines** as the dominant sorting mechanism: families with means move away, sorting neighborhoods by wealth and leaving behind the most vulnerable students
 
 ---
 
