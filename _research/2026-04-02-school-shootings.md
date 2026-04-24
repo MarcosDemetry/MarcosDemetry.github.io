@@ -5,7 +5,6 @@ title: "Flight from Fights: School Shootings, Mobility and Neighborhood Sorting"
 tags: [ongoing]
 ---
 
-## Congrats! You've seen my poster at SOLE-JOLE 2026 ##
 
 Contents in this page:
 - [Quick Recap](#1-quick-recap)
@@ -21,10 +20,8 @@ Contents in this page:
 
 ## 1. Quick Recap ##
 
-Wandered away from the poster and need a quick refresher?
-
 - **What's this about?** I study how school shootings affect total enrollment, and whether it is the socioeconomically better-off families that exit the affected schools and relocate to wealthier neighborhoods, leading to greater socioeconomic segregation at the county level.
-- **How did I estimate this?** I use a staggered Difference-in-Differences design, exploiting the exogenous timing of ~2,300 school shootings across the United States between 1990 and 2022. Schools within 500 meters of a shooting serve as the treated group; never- and not-yet-treated schools are the control group. I use the [Callaway and Sant'Anna (2021)](https://doi.org/10.1016/j.jeconometrics.2020.12.001) estimator to obtain group-time average treatment effects robust to treatment effect heterogeneity.
+- **How did I estimate this?** I use a staggered Difference-in-Differences design, exploiting the exogenous timing of ~2,300 school shootings across the United States between 1990 and 2022. Schools within 500 meters of a shooting serve as the treated group; never- and not-yet-treated schools are the control group. I use the [Callaway and Sant'Anna (2021)](https://doi.org/10.1016/j.jeconom.2020.12.001) estimator to obtain group-time average treatment effects robust to treatment effect heterogeneity.
 - **What did I find?** School shootings reduce enrollment by an average of **4%** or about 25 students in a typical shooting school. Fatal shootings eventually shrink schools by **10%**. Non-poor families exit faster than poor ones. There is no detectable change in between-school or between-district segregation, but between-county socioeconomic segregation increases significantly, with effects building gradually. This is consistent with residential relocation across county lines rather than school-switching within a district.
 - **Do I trust these results?** Yes. Effects are stable across treatment radii from 250m to 5km, robust to alternative estimators, and pass a randomization-inference placebo test.
 Schools that close entirely are dropped from the estimation sample, so the estimated effects are a *lower bound*.
@@ -226,7 +223,7 @@ This matters for interpretation: the enrollment estimates are computed only on s
 
 I'm glad you've made it this far and thanks for your interest in my work!
 
-If you'd like to discuss the paper, share related findings, or just say hello, let's **grab a coffee** (we'll exchange contact details or reach out here <a href="mailto:marcos.demetry@lnu.se?subject=SOLE-JOLE 2026: grab a coffee! &body=Hi Marcos, great poster and blog post! Let's grab a coffee during this conference. E-mail me back and we'll set something up. (Feel free to add your actual message below)">marcos.demetry@lnu.se</a>).
+If you'd like to discuss the paper, share related findings, or just say hello, let's **grab a coffee** (we'll exchange contact details or reach out here <a href="mailto:marcos.demetry@lnu.se?subject=SOLE-JOLE 2026: grab a coffee! &body=Hi Marcos, great blog post! Let's grab a coffee during this conference. E-mail me back and we'll set something up. (Feel free to add your actual message below)">marcos.demetry@lnu.se</a>).
 
 
 
