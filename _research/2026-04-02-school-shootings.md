@@ -223,7 +223,7 @@ This matters for interpretation: the enrollment estimates are computed only on s
 
 I'm glad you've made it this far and thanks for your interest in my work!
 
-If you'd like to discuss the paper, share related findings, or just say hello, let's **grab a coffee** (we'll exchange contact details or reach out here <a href="mailto:marcos.demetry@lnu.se?subject=SOLE-JOLE 2026: grab a coffee! &body=Hi Marcos, great blog post! Let's grab a coffee during this conference. E-mail me back and we'll set something up. (Feel free to add your actual message below)">marcos.demetry@lnu.se</a>).
+If you'd like to discuss the paper, share related findings, or just say hello, let's **grab a coffee** (we'll exchange contact details or reach out here <a href="mailto:marcos.demetry@lnu.se?subject=School shootings paper &body=Hi Marcos, great blog post!">marcos.demetry@lnu.se</a>).
 
 
 
@@ -231,6 +231,6 @@ I'm broadly interested in **urban economics and segregation** (what drives the s
 
 ---
 
-<a href="/assets/articles/Demetry-school-shootings.pdf" onclick="if(window.gtag) gtag('event', 'file_download', {file_name: 'Demetry-school-shootings.pdf', file_extension: 'pdf', link_text: 'Full working draft available here'});">Full working draft available here</a>
+<!-- <a href="/assets/articles/Demetry-school-shootings.pdf" onclick="if(window.gtag) gtag('event', 'file_download', {file_name: 'Demetry-school-shootings.pdf', file_extension: 'pdf', link_text: 'Full working draft available here'});">Full working draft available here</a> -->
 
 <a href="/research">Back to Research</a>
