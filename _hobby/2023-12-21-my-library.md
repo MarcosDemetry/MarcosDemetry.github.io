@@ -15,28 +15,28 @@ I've read 297 (or approximately 60%).
 For most books, and especially after 2014, I also have an exact date read, and we could get this more granular plot.
 <img src = "/assets/img/hobby-exploring-library/books_read_per_day_cumulative.png" width ="100%"/>
 
-A lot of books are read within a month. Some books take years. Of course, what this means is that I've started reading a book and put it a way for many months, then picked it up again. 
+A lot of books are read within a month. Some books take years. Of course, what this means is that I've started reading a book and put it away for many months, then picked it up again. 
 But this statistic is already very skewed, because I was a much more avid reader between 2014–2018, and would finish a book per 1.5 weeks on average. This is not super impressive compared to real avid readers, but life is not a competition. (At least I'm trying to convince myself of that)
 <img src = "/assets/img/hobby-exploring-library/days_to_finish_hist.png" width ="100%"/>
 
-Most of what I own (and read) is non-fiction. I didn't have the guts to classify the bible and psalm books as either fiction or non-fiction, so they got their own category _spirituality_.
+Most of what I own (and read) is non-fiction. I didn't have the guts to classify the Bible and psalm books as either fiction or non-fiction, so they got their own category _spirituality_.
 <img src = "/assets/img/hobby-exploring-library/nonfiction_vs_other.png" width ="100%"/>
 
-My most owned (and read) 15 genres are, to no ones surprise, as follows:
+My most owned (and read) 15 genres are, to no one's surprise, as follows:
 <img src = "/assets/img/hobby-exploring-library/top15_genres.png" width ="100%"/>
 
 For some books, I have also classified subgenres.
 <img src = "/assets/img/hobby-exploring-library/top20_subgenres.png" width ="100%"/>
 
-My most read author is the one and only N.N.T. Then there's popular non-fiction writers like Gladwell. One or two textbook authors made their way in there as well.
+My most read author is the one and only N.N.T. Then there are popular non-fiction writers like Gladwell. One or two textbook authors made their way in there as well.
 <img src = "/assets/img/hobby-exploring-library/top20_authors.png" width ="100%"/>
 
 For most of the books that I've read, I added a rating from 1–5, with 5 being a gripping book
-that I could not put away or that made me think differently about life, and the lower ratings are just awful books. Naturally, and thank God, I have no 1-star ratings (if it were that bad, I wouldn't have bought the book in the first place)! The 2-stars are the fallen angels, I bought them with the hopes of them being 4s and 5s, but they quickly made their way to a solid 2. The 3 stars are in actuality 2s but I either really like the author or the topic (despite my disliking of many details). 4 stars are all round great books.
+that I could not put away or that made me think differently about life, and the lower ratings are just awful books. Naturally, and thank God, I have no 1-star ratings (if it were that bad, I wouldn't have bought the book in the first place)! The 2-stars are the fallen angels, I bought them with the hopes of them being 4s and 5s, but they quickly made their way to a solid 2. The 3 stars are in actuality 2s but I either really like the author or the topic (despite my disliking of many details). 4 stars are all-round great books.
 I'd recommend them to folks. 
 <img src = "/assets/img/hobby-exploring-library/rating.png" width ="100%"/>
 
-Finally, and least surprising, my books are on avg 300–350 pages long. The mean is of course heavily influenced by (1) the bible and (2) Swedish law book.
+Finally, and least surprising, my books are on avg 300–350 pages long. The mean is of course heavily influenced by (1) the Bible and (2) the Swedish law book.
 I wonder if book lengths have changed drastically over time? Only problem is: 11 years of data is not enough, my book purchases are not representative of "books" in general, year published does not equal my edition's year or the year I bought the book, and, lastly, I should get some rest and call it a day.
 <img src = "/assets/img/hobby-exploring-library/book_lengths_hist.png" width ="100%"/>
 

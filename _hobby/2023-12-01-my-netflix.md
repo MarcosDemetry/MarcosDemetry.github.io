@@ -7,15 +7,15 @@ tags: [data, personal]
 ---
 
 Is there any greater sign of procras... being cultured than watching good TV?
-If I'm not listening to music (which was 55.8k minutes so far in 2023) or watching podcasts on YouTube (like Lex Fridman and Joe Rogan, with a little Theo Von, Neil DeGrasse Tyson, and Sean Carroll sprinkled on top), then I have a show or movie running in the background on Netflix.
+If I'm not listening to music (which was 55.8k minutes so far in 2023) or watching podcasts on YouTube (like Lex Fridman and Joe Rogan, with a little Theo Von, Neil deGrasse Tyson, and Sean Carroll sprinkled on top), then I have a show or movie running in the background on Netflix.
 
 In an attempt to make this truly beautifully unnecessary statistics, I give you a summary of my Netflix viewing activity.
 
-Surprisingly, I played outside more in the beginning of the pandemic (March–July of 2020), than I did toward the end of that year.
+Surprisingly, I played outside more at the beginning of the pandemic (March–July of 2020), than I did toward the end of that year.
 I seem to be getting a cold in December–February of every year, so viewing times really shoot up during that period.
 <img src = "/assets/img/hobby-exploring-Netflix/time_spent_watching_netflix_by_month_year.png" width ="100%"/>
 
-What have I watched the most? If I look at movies and series together (i.e. removing episode information from title), I get these excellent shows on my top 20.
+What have I watched the most? If I look at movies and series together (i.e. removing episode information from title), I get these excellent shows in my top 20.
 And I'll throw in a little WordCloud while we're at it to capture a few more titles than the top 20.
 <img src = "/assets/img/hobby-exploring-Netflix/top_20_shows.png" width ="100%"/>
 <img src = "/assets/img/hobby-exploring-Netflix/wordcloud.png" width ="100%"/>
@@ -35,6 +35,6 @@ information on genres, ratings and release years.
 One day, I may take these BUS seriously. Today is not that day.
 In the words of Maximus Decimus Meridius, "Are you not entertained? Is this not why you are here?"
 
-Uploaded 2023–12–01; Last updated 2023-12-
+Uploaded 2023–12–01; Last updated 2023–12–01
 
 <a href="/hobby">Back to Hobby</a>
