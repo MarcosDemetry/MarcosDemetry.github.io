@@ -1,0 +1,130 @@
+<div id="ranet" class="ranet" data-src="{{ '/assets/data/ra-network.json' | relative_url }}">
+  <div class="ranet-controls" role="group" aria-label="Filter works by how I was involved">
+    <label><input type="checkbox" value="assistance" checked> Thanked for assistance <span class="ranet-n" data-count="assistance"></span></label>
+    <label><input type="checkbox" value="comments" checked> Thanked for comments <span class="ranet-n" data-count="comments"></span></label>
+    <label><input type="checkbox" value="rest" checked> Other tasks <span class="ranet-n" data-count="rest"></span></label>
+  </div>
+  <p class="ranet-status" aria-live="polite"></p>
+  <svg class="ranet-svg" viewBox="-118 -118 236 236" role="img"
+       aria-label="Co-authorship network of researchers whose projects I worked on as a research assistant"></svg>
+  <div class="ranet-panel" tabindex="-1">
+    <p class="ranet-hint">Select a researcher to list the projects of theirs I worked on.</p>
+  </div>
+  <noscript><p><em>This figure is interactive and needs JavaScript. The full list of works is in the bibliography below.</em></p></noscript>
+</div>
+
+<style>
+.ranet{margin:1.4rem 0}
+.ranet-controls{display:flex;flex-wrap:wrap;gap:.5rem .9rem;margin-bottom:.5rem}
+.ranet-controls label{display:flex;align-items:center;gap:.4rem;font-size:.87rem;color:#404040;
+  border:1px solid #E6E6E6;border-radius:6px;padding:.32rem .6rem;cursor:pointer;user-select:none}
+.ranet-controls label:hover{border-color:#b9c6d6}
+.ranet-controls input{margin:0;cursor:pointer}
+.ranet-n{color:#8a8a8a;font-variant-numeric:tabular-nums}
+.ranet-status{font-size:.82rem;color:#777;margin:.1rem 0 .35rem}
+.ranet-svg{width:100%;height:auto;display:block;touch-action:manipulation;overflow:visible}
+.ranet-svg .lnk{stroke:#CBD5E0;stroke-width:.45;stroke-linecap:round}
+.ranet-svg .nd{fill:#2a78d6;stroke:#fff;stroke-width:.7;cursor:pointer;transition:r .25s ease,fill .15s ease}
+.ranet-svg .nd:hover{fill:#1b5fb0}
+.ranet-svg .nd:focus{outline:none;stroke:#404040;stroke-width:1.1}
+.ranet-svg .nd.sel{fill:#eb6834}
+.ranet-svg .lbl{font-size:2.6px;fill:#6b6b6b;pointer-events:none;
+  paint-order:stroke;stroke:#fff;stroke-width:1px;stroke-linejoin:round}
+.ranet-svg .lbl.big{font-size:3.3px;fill:#404040;font-weight:600}
+.ranet-svg .off{display:none}
+.ranet-panel{border:1px solid #E6E6E6;border-radius:6px;padding:.7rem .85rem;margin-top:.6rem;
+  font-size:.87rem;color:#404040;min-height:3.2rem}
+.ranet-panel h4{margin:0 0 .45rem;font-size:.98rem}
+.ranet-panel ul{margin:0;padding-left:1.1rem}
+.ranet-panel li{margin-bottom:.42rem;line-height:1.4}
+.ranet-panel .meta{color:#8a8a8a}
+.ranet-hint{margin:0;color:#8a8a8a}
+.ranet-tag{display:inline-block;font-size:.72rem;padding:.04rem .4rem;border-radius:3px;
+  border:1px solid currentColor;margin-right:.35rem;vertical-align:1px}
+.ranet-tag.assistance{color:#1b5fb0}.ranet-tag.comments{color:#b8500f}.ranet-tag.rest{color:#7a7a7a}
+@media (max-width:600px){.ranet-controls label{font-size:.8rem}.ranet-svg .lbl{font-size:3.1px}.ranet-svg .lbl.big{font-size:3.8px}}
+</style>
+
+<script>
+(function(){
+  var root=document.getElementById('ranet'); if(!root) return;
+  var svg=root.querySelector('.ranet-svg'), panel=root.querySelector('.ranet-panel'),
+      status=root.querySelector('.ranet-status'),
+      boxes=[].slice.call(root.querySelectorAll('.ranet-controls input')),
+      NS='http://www.w3.org/2000/svg', D=null, sel=null;
+  var LABELS={assistance:'assistance',comments:'comments',rest:'other task'};
+
+  fetch(root.dataset.src).then(function(r){return r.json();}).then(function(d){D=d;draw();})
+    .catch(function(){status.textContent='Could not load the network data.';});
+
+  function radius(k){return 1.9+1.15*Math.sqrt(k);}
+  function el(n,a){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);return e;}
+  function active(){var s={};boxes.forEach(function(b){if(b.checked)s[b.value]=1;});return s;}
+  function workOn(w,s){return !!s[w.role];}
+
+  function draw(){
+    var counts={assistance:0,comments:0,rest:0};
+    D.works.forEach(function(w){counts[w.role]++;});
+    root.querySelectorAll('.ranet-n').forEach(function(sp){
+      sp.textContent='('+counts[sp.dataset.count]+')';});
+    D.edges.forEach(function(e,i){
+      var a=D.nodes[e.s],b=D.nodes[e.t];
+      e.el=el('line',{class:'lnk',x1:a.x,y1:a.y,x2:b.x,y2:b.y}); svg.appendChild(e.el);
+    });
+    D.nodes.forEach(function(n,i){
+      n.el=el('circle',{class:'nd',cx:n.x,cy:n.y,r:radius(n.works.length),tabindex:0,role:'button'});
+      n.tip=el('title',{}); n.el.appendChild(n.tip);
+      n.lab=el('text',{class:'lbl'+(n.works.length>2?' big':''),x:n.lx,y:n.ly,'text-anchor':n.a});
+      n.lab.textContent=n.name;
+      n.el.addEventListener('click',function(ev){ev.stopPropagation();pick(i);});
+      n.el.addEventListener('keydown',function(ev){
+        if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();pick(i);}});
+      svg.appendChild(n.el); svg.appendChild(n.lab);
+    });
+    svg.addEventListener('click',function(){pick(null);});
+    boxes.forEach(function(b){b.addEventListener('change',function(){apply();if(sel!==null)pick(sel,true);});});
+    apply();
+  }
+
+  function apply(){
+    var s=active(), vis=0, nw=0;
+    D.works.forEach(function(w){if(workOn(w,s))nw++;});
+    D.nodes.forEach(function(n){
+      var k=n.works.filter(function(id){return workOn(D.works[id],s);}).length;
+      n.on=k>0;
+      n.el.setAttribute('r',radius(k||1));
+      n.tip.textContent=n.name+' — '+k+(k===1?' project':' projects');
+      n.el.classList.toggle('off',!n.on); n.lab.classList.toggle('off',!n.on);
+      if(n.on)vis++;
+    });
+    D.edges.forEach(function(e){
+      var on=D.nodes[e.s].on&&D.nodes[e.t].on&&
+             e.works.some(function(id){return workOn(D.works[id],s);});
+      e.el.classList.toggle('off',!on);
+    });
+    status.textContent=vis+' researcher'+(vis===1?'':'s')+' across '+nw+' project'+(nw===1?'':'s')+' shown.';
+    if(sel!==null&&!D.nodes[sel].on) pick(null);
+  }
+
+  function pick(i,keep){
+    if(sel!==null&&D.nodes[sel]) D.nodes[sel].el.classList.remove('sel');
+    sel=i;
+    if(i===null){panel.innerHTML='<p class="ranet-hint">Select a researcher to list the projects of theirs I worked on.</p>';return;}
+    var n=D.nodes[i], s=active();
+    n.el.classList.add('sel');
+    var ws=n.works.map(function(id){return D.works[id];})
+                  .filter(function(w){return workOn(w,s);})
+                  .sort(function(a,b){return b.year-a.year;});
+    var h='<h4>'+esc(n.name)+'</h4><ul>';
+    ws.forEach(function(w){
+      h+='<li><span class="ranet-tag '+w.role+'">'+LABELS[w.role]+'</span>'+
+         esc(w.title)+' <span class="meta">('+w.year+', '+esc(w.outlet)+')</span></li>';
+    });
+    h+='</ul>';
+    panel.innerHTML=h;
+    if(!keep) panel.focus({preventScroll:true});
+  }
+  function esc(t){return String(t).replace(/[&<>"]/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+})();
+</script>
