@@ -15,8 +15,19 @@ But heck, why not? For just this part of the website, enjoy some hot mess.
 Oh, I also post about books on Instagram with the handle [@Ceres_books](https://www.instagram.com/ceres_books/).
 Welcome to my hobby!
 
-<div class="instagram-float-right">
+<div class="instagram-embed">
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/ceres_books/" data-instgrm-version="14">
   </blockquote>
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
+
+<style>
+/* Instagram's embed.js sets inline max-width:540px, min-width:326px and
+   margin:0 on the iframe; !important is needed to override them. */
+.instagram-embed .instagram-media {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 auto 20px !important;
+}
+</style>
