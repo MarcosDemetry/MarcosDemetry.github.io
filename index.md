@@ -11,7 +11,7 @@ show-avatar: false
     <img src="/assets/img/Marcos-Demetry-2023-Square.jpeg" alt="Marcos Demetry" class="img-fluid rounded-circle" style="max-width: 200px;">
   </div>
   <div class="col-md-8">
-    <p class="mt-0">Welcome to my personal webpage! I am a PhD student interested in urban economics, segregation studies and labor economics.</p>
+    <p class="mt-0">Welcome to my personal webpage! I am a PhD student interested in crime economics, segregation studies and labor economics.</p>
     <p>Explore the website to find out about my <a href="/research">research</a>, <a href="/teaching">teaching</a> and <a href="/resume">work experience</a> in academia.</p>
   </div>
 </div>
