@@ -12,7 +12,7 @@ show-avatar: false
   </div>
   <div class="col-md-8">
     <p class="mt-0">Welcome to my personal webpage! I am a PhD student interested in urban economics, segregation studies and labor economics.</p>
-    <p>Explore the website to find out about my <a href="research.html">research</a>, <a href="teaching.html">teaching</a> and <a href="resume.html">work experience</a> in academia.</p>
+    <p>Explore the website to find out about my <a href="/research">research</a>, <a href="/teaching">teaching</a> and <a href="/resume">work experience</a> in academia.</p>
   </div>
 </div>
 
