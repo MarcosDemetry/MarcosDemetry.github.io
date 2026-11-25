@@ -49,7 +49,7 @@ title: Teaching
 }
 </style>
 
-I've given **39 lectures**, **39 exercise sessions**, **3 computer labs**, and **13 teaching seminars** in a variety of economics courses. All the courses below are at **Linnaeus University** and **Uppsala University**. Click any course for its details.
+I've given **49 lectures**, **43 exercise sessions**, **3 computer labs**, and **13 teaching seminars** in a variety of economics courses. All the courses below are at **Linnaeus University** and **Uppsala University**. Click any course for its details.
 
 <div class="teaching-viz">
 
@@ -82,11 +82,11 @@ I've given **39 lectures**, **39 exercise sessions**, **3 computer labs**, and *
     <h4>Master's</h4>
     <div class="tv-chips">
       <button class="tv-chip lv-ma" data-level="ma"
-        data-terms="Autumn 2022, Autumn 2024, Autumn 2025"
-        data-detail="2 lectures and 2 exercise sessions for a master's course, focusing on welfare, market inefficiencies, and behavioral economics with applications to environmental sustainability. (In 2022 the course had a single exercise session.)">Advanced Microeconomics <span class="count">×3</span></button>
+        data-terms="Autumn 2022, Autumn 2024, Autumn 2025, Autumn 2026"
+        data-detail="4 lectures and 2 exercise sessions for a master's course, focusing on welfare, market inefficiencies, and behavioral economics with applications to environmental sustainability. (In 2022 I gave 2 lectures and a single exercise session.)">Advanced Microeconomics <span class="count">×4</span></button>
       <button class="tv-chip lv-ma" data-level="ma"
-        data-terms="Autumn 2024, Autumn 2025"
-        data-detail="2 lectures and 2 exercise sessions for a master's course in mathematical economics.">Advanced Mathematical Economics <span class="count">×2</span></button>
+        data-terms="Autumn 2024, Autumn 2025, Autumn 2026"
+        data-detail="2 lectures and 2 exercise sessions for a master's course in mathematical economics.">Advanced Mathematical Economics <span class="count">×3</span></button>
       <button class="tv-chip lv-ma" data-level="ma"
         data-terms="Spring 2025, Spring 2026"
         data-detail="3 lectures for a master's course on economic methodology.">Advanced Economic Methodology <span class="count">×2</span></button>
@@ -137,7 +137,7 @@ Student feedback for my Uppsala mentorship sessions was overwhelmingly positive 
     <div class="tv-bar"><span class="total">1</span><div class="seg lv-ug" style="height:11%"></div></div>
     <div class="tv-bar"><span class="total">8</span><div class="seg lv-ug" style="height:33%"></div><div class="seg lv-ma" style="height:55%"></div></div>
     <div class="tv-bar"><span class="total">5</span><div class="seg lv-ug" style="height:11%"></div><div class="seg lv-ma" style="height:44%"></div></div>
-    <div class="tv-bar"><span class="total">5</span><div class="seg lv-ug" style="height:11%"></div><div class="seg lv-ma" style="height:33%"></div><div class="seg lv-phd" style="height:11%"></div></div>
+    <div class="tv-bar"><span class="total">7</span><div class="seg lv-ug" style="height:11%"></div><div class="seg lv-ma" style="height:55%"></div><div class="seg lv-phd" style="height:11%"></div></div>
   </div>
   <div class="tv-xlabels">
     <span>2017</span><span>2018</span><span>2019</span><span>2020</span><span>2021</span><span>2022</span><span>2023</span><span>2024</span><span>2025</span><span>2026</span>
